@@ -1,0 +1,13 @@
+C:\Users\gabeh\OneDrive\Desktop\Basic-C-Sharp\Welcome\bin\Debug\netcoreapp3.1\Welcome.exe
+C:\Users\gabeh\OneDrive\Desktop\Basic-C-Sharp\Welcome\bin\Debug\netcoreapp3.1\Welcome.deps.json
+C:\Users\gabeh\OneDrive\Desktop\Basic-C-Sharp\Welcome\bin\Debug\netcoreapp3.1\Welcome.runtimeconfig.json
+C:\Users\gabeh\OneDrive\Desktop\Basic-C-Sharp\Welcome\bin\Debug\netcoreapp3.1\Welcome.runtimeconfig.dev.json
+C:\Users\gabeh\OneDrive\Desktop\Basic-C-Sharp\Welcome\bin\Debug\netcoreapp3.1\Welcome.dll
+C:\Users\gabeh\OneDrive\Desktop\Basic-C-Sharp\Welcome\bin\Debug\netcoreapp3.1\Welcome.pdb
+C:\Users\gabeh\OneDrive\Desktop\Basic-C-Sharp\Welcome\obj\Debug\netcoreapp3.1\Welcome.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabeh\OneDrive\Desktop\Basic-C-Sharp\Welcome\obj\Debug\netcoreapp3.1\Welcome.AssemblyInfoInputs.cache
+C:\Users\gabeh\OneDrive\Desktop\Basic-C-Sharp\Welcome\obj\Debug\netcoreapp3.1\Welcome.AssemblyInfo.cs
+C:\Users\gabeh\OneDrive\Desktop\Basic-C-Sharp\Welcome\obj\Debug\netcoreapp3.1\Welcome.csproj.CoreCompileInputs.cache
+C:\Users\gabeh\OneDrive\Desktop\Basic-C-Sharp\Welcome\obj\Debug\netcoreapp3.1\Welcome.dll
+C:\Users\gabeh\OneDrive\Desktop\Basic-C-Sharp\Welcome\obj\Debug\netcoreapp3.1\Welcome.pdb
+C:\Users\gabeh\OneDrive\Desktop\Basic-C-Sharp\Welcome\obj\Debug\netcoreapp3.1\Welcome.genruntimeconfig.cache
