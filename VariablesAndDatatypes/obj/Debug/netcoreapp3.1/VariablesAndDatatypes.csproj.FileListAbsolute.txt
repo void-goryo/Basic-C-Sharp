@@ -12,3 +12,17 @@ C:\Users\gabeh\OneDrive\Desktop\Basic-C-Sharp\VariablesAndDatatypes\obj\Debug\ne
 C:\Users\gabeh\OneDrive\Desktop\Basic-C-Sharp\VariablesAndDatatypes\obj\Debug\netcoreapp3.1\VariablesAndDatatypes.pdb
 C:\Users\gabeh\OneDrive\Desktop\Basic-C-Sharp\VariablesAndDatatypes\obj\Debug\netcoreapp3.1\VariablesAndDatatypes.genruntimeconfig.cache
 C:\Users\gabeh\OneDrive\Desktop\Basic-C-Sharp\VariablesAndDatatypes\obj\Debug\netcoreapp3.1\VariablesAndDatatypes.csproj.AssemblyReference.cache
+C:\Users\Gabe\Desktop\Basic-C-Sharp\VariablesAndDatatypes\obj\Debug\netcoreapp3.1\VariablesAndDatatypes.csproj.AssemblyReference.cache
+C:\Users\Gabe\Desktop\Basic-C-Sharp\VariablesAndDatatypes\obj\Debug\netcoreapp3.1\VariablesAndDatatypes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabe\Desktop\Basic-C-Sharp\VariablesAndDatatypes\obj\Debug\netcoreapp3.1\VariablesAndDatatypes.AssemblyInfoInputs.cache
+C:\Users\Gabe\Desktop\Basic-C-Sharp\VariablesAndDatatypes\obj\Debug\netcoreapp3.1\VariablesAndDatatypes.AssemblyInfo.cs
+C:\Users\Gabe\Desktop\Basic-C-Sharp\VariablesAndDatatypes\obj\Debug\netcoreapp3.1\VariablesAndDatatypes.csproj.CoreCompileInputs.cache
+C:\Users\Gabe\Desktop\Basic-C-Sharp\VariablesAndDatatypes\obj\Debug\netcoreapp3.1\VariablesAndDatatypes.dll
+C:\Users\Gabe\Desktop\Basic-C-Sharp\VariablesAndDatatypes\obj\Debug\netcoreapp3.1\VariablesAndDatatypes.pdb
+C:\Users\Gabe\Desktop\Basic-C-Sharp\VariablesAndDatatypes\bin\Debug\netcoreapp3.1\VariablesAndDatatypes.exe
+C:\Users\Gabe\Desktop\Basic-C-Sharp\VariablesAndDatatypes\bin\Debug\netcoreapp3.1\VariablesAndDatatypes.deps.json
+C:\Users\Gabe\Desktop\Basic-C-Sharp\VariablesAndDatatypes\bin\Debug\netcoreapp3.1\VariablesAndDatatypes.runtimeconfig.json
+C:\Users\Gabe\Desktop\Basic-C-Sharp\VariablesAndDatatypes\bin\Debug\netcoreapp3.1\VariablesAndDatatypes.runtimeconfig.dev.json
+C:\Users\Gabe\Desktop\Basic-C-Sharp\VariablesAndDatatypes\bin\Debug\netcoreapp3.1\VariablesAndDatatypes.dll
+C:\Users\Gabe\Desktop\Basic-C-Sharp\VariablesAndDatatypes\bin\Debug\netcoreapp3.1\VariablesAndDatatypes.pdb
+C:\Users\Gabe\Desktop\Basic-C-Sharp\VariablesAndDatatypes\obj\Debug\netcoreapp3.1\VariablesAndDatatypes.genruntimeconfig.cache
