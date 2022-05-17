@@ -11,3 +11,4 @@ C:\Users\gabeh\OneDrive\Desktop\Basic-C-Sharp\operators\obj\Debug\netcoreapp3.1\
 C:\Users\gabeh\OneDrive\Desktop\Basic-C-Sharp\operators\obj\Debug\netcoreapp3.1\operators.dll
 C:\Users\gabeh\OneDrive\Desktop\Basic-C-Sharp\operators\obj\Debug\netcoreapp3.1\operators.pdb
 C:\Users\gabeh\OneDrive\Desktop\Basic-C-Sharp\operators\obj\Debug\netcoreapp3.1\operators.genruntimeconfig.cache
+C:\Users\gabeh\OneDrive\Desktop\Basic-C-Sharp\operators\obj\Debug\netcoreapp3.1\operators.csproj.AssemblyReference.cache

@@ -1,0 +1,13 @@
+C:\Users\gabeh\OneDrive\Desktop\Basic-C-Sharp\Calculate\obj\Debug\netcoreapp3.1\Calculate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabeh\OneDrive\Desktop\Basic-C-Sharp\Calculate\obj\Debug\netcoreapp3.1\Calculate.AssemblyInfoInputs.cache
+C:\Users\gabeh\OneDrive\Desktop\Basic-C-Sharp\Calculate\obj\Debug\netcoreapp3.1\Calculate.AssemblyInfo.cs
+C:\Users\gabeh\OneDrive\Desktop\Basic-C-Sharp\Calculate\obj\Debug\netcoreapp3.1\Calculate.csproj.CoreCompileInputs.cache
+C:\Users\gabeh\OneDrive\Desktop\Basic-C-Sharp\Calculate\bin\Debug\netcoreapp3.1\Calculate.exe
+C:\Users\gabeh\OneDrive\Desktop\Basic-C-Sharp\Calculate\bin\Debug\netcoreapp3.1\Calculate.deps.json
+C:\Users\gabeh\OneDrive\Desktop\Basic-C-Sharp\Calculate\bin\Debug\netcoreapp3.1\Calculate.runtimeconfig.json
+C:\Users\gabeh\OneDrive\Desktop\Basic-C-Sharp\Calculate\bin\Debug\netcoreapp3.1\Calculate.runtimeconfig.dev.json
+C:\Users\gabeh\OneDrive\Desktop\Basic-C-Sharp\Calculate\bin\Debug\netcoreapp3.1\Calculate.dll
+C:\Users\gabeh\OneDrive\Desktop\Basic-C-Sharp\Calculate\bin\Debug\netcoreapp3.1\Calculate.pdb
+C:\Users\gabeh\OneDrive\Desktop\Basic-C-Sharp\Calculate\obj\Debug\netcoreapp3.1\Calculate.dll
+C:\Users\gabeh\OneDrive\Desktop\Basic-C-Sharp\Calculate\obj\Debug\netcoreapp3.1\Calculate.pdb
+C:\Users\gabeh\OneDrive\Desktop\Basic-C-Sharp\Calculate\obj\Debug\netcoreapp3.1\Calculate.genruntimeconfig.cache

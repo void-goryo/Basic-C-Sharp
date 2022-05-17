@@ -6,6 +6,7 @@ namespace operators
     {
         static void Main(string[] args)
         {
+            //Math Operators
             int total = 5 + 10;
             Console.WriteLine("5 + 10 = " + total.ToString());
             Console.ReadLine();
@@ -22,6 +23,25 @@ namespace operators
             double quotient = 100.0 / 17.0;
             Console.WriteLine("100 / 17 = " + quotient.ToString());
             Console.ReadLine();
+            int remainder = 11 % 2;
+            Console.WriteLine(remainder);
+            Console.ReadLine();
+
+            //Comparison Operators
+
+            bool trueOrFalse = 12 > 5;
+            Console.WriteLine(trueOrFalse.ToString());
+            Console.ReadLine();
+
+            int roomtemp = 70;
+            int currenttemp = 70;
+            //bool isWarm = currenttemp >= roomtemp;
+            //bool isWarm = currenttemp == roomtemp;
+            bool isWarm = currenttemp != roomtemp;
+            Console.WriteLine(isWarm);
+            Console.ReadLine();
+
+
 
         }
     }
