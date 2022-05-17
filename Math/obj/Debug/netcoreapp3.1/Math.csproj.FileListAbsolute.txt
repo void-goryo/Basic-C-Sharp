@@ -1,0 +1,13 @@
+C:\Users\gabeh\OneDrive\Desktop\Basic-C-Sharp\Math\bin\Debug\netcoreapp3.1\Math.exe
+C:\Users\gabeh\OneDrive\Desktop\Basic-C-Sharp\Math\bin\Debug\netcoreapp3.1\Math.deps.json
+C:\Users\gabeh\OneDrive\Desktop\Basic-C-Sharp\Math\bin\Debug\netcoreapp3.1\Math.runtimeconfig.json
+C:\Users\gabeh\OneDrive\Desktop\Basic-C-Sharp\Math\bin\Debug\netcoreapp3.1\Math.runtimeconfig.dev.json
+C:\Users\gabeh\OneDrive\Desktop\Basic-C-Sharp\Math\bin\Debug\netcoreapp3.1\Math.dll
+C:\Users\gabeh\OneDrive\Desktop\Basic-C-Sharp\Math\bin\Debug\netcoreapp3.1\Math.pdb
+C:\Users\gabeh\OneDrive\Desktop\Basic-C-Sharp\Math\obj\Debug\netcoreapp3.1\Math.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabeh\OneDrive\Desktop\Basic-C-Sharp\Math\obj\Debug\netcoreapp3.1\Math.AssemblyInfoInputs.cache
+C:\Users\gabeh\OneDrive\Desktop\Basic-C-Sharp\Math\obj\Debug\netcoreapp3.1\Math.AssemblyInfo.cs
+C:\Users\gabeh\OneDrive\Desktop\Basic-C-Sharp\Math\obj\Debug\netcoreapp3.1\Math.csproj.CoreCompileInputs.cache
+C:\Users\gabeh\OneDrive\Desktop\Basic-C-Sharp\Math\obj\Debug\netcoreapp3.1\Math.dll
+C:\Users\gabeh\OneDrive\Desktop\Basic-C-Sharp\Math\obj\Debug\netcoreapp3.1\Math.pdb
+C:\Users\gabeh\OneDrive\Desktop\Basic-C-Sharp\Math\obj\Debug\netcoreapp3.1\Math.genruntimeconfig.cache

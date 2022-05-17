@@ -12,3 +12,17 @@ C:\Users\Gabe\source\repos\DailyReport\DailyReport\obj\Debug\netcoreapp3.1\Daily
 C:\Users\Gabe\source\repos\DailyReport\DailyReport\obj\Debug\netcoreapp3.1\DailyReport.dll
 C:\Users\Gabe\source\repos\DailyReport\DailyReport\obj\Debug\netcoreapp3.1\DailyReport.pdb
 C:\Users\Gabe\source\repos\DailyReport\DailyReport\obj\Debug\netcoreapp3.1\DailyReport.genruntimeconfig.cache
+C:\Users\gabeh\OneDrive\Desktop\Basic-C-Sharp\DailyReport\DailyReport\bin\Debug\netcoreapp3.1\DailyReport.exe
+C:\Users\gabeh\OneDrive\Desktop\Basic-C-Sharp\DailyReport\DailyReport\bin\Debug\netcoreapp3.1\DailyReport.deps.json
+C:\Users\gabeh\OneDrive\Desktop\Basic-C-Sharp\DailyReport\DailyReport\bin\Debug\netcoreapp3.1\DailyReport.runtimeconfig.json
+C:\Users\gabeh\OneDrive\Desktop\Basic-C-Sharp\DailyReport\DailyReport\bin\Debug\netcoreapp3.1\DailyReport.runtimeconfig.dev.json
+C:\Users\gabeh\OneDrive\Desktop\Basic-C-Sharp\DailyReport\DailyReport\bin\Debug\netcoreapp3.1\DailyReport.dll
+C:\Users\gabeh\OneDrive\Desktop\Basic-C-Sharp\DailyReport\DailyReport\bin\Debug\netcoreapp3.1\DailyReport.pdb
+C:\Users\gabeh\OneDrive\Desktop\Basic-C-Sharp\DailyReport\DailyReport\obj\Debug\netcoreapp3.1\DailyReport.csproj.AssemblyReference.cache
+C:\Users\gabeh\OneDrive\Desktop\Basic-C-Sharp\DailyReport\DailyReport\obj\Debug\netcoreapp3.1\DailyReport.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabeh\OneDrive\Desktop\Basic-C-Sharp\DailyReport\DailyReport\obj\Debug\netcoreapp3.1\DailyReport.AssemblyInfoInputs.cache
+C:\Users\gabeh\OneDrive\Desktop\Basic-C-Sharp\DailyReport\DailyReport\obj\Debug\netcoreapp3.1\DailyReport.AssemblyInfo.cs
+C:\Users\gabeh\OneDrive\Desktop\Basic-C-Sharp\DailyReport\DailyReport\obj\Debug\netcoreapp3.1\DailyReport.csproj.CoreCompileInputs.cache
+C:\Users\gabeh\OneDrive\Desktop\Basic-C-Sharp\DailyReport\DailyReport\obj\Debug\netcoreapp3.1\DailyReport.dll
+C:\Users\gabeh\OneDrive\Desktop\Basic-C-Sharp\DailyReport\DailyReport\obj\Debug\netcoreapp3.1\DailyReport.pdb
+C:\Users\gabeh\OneDrive\Desktop\Basic-C-Sharp\DailyReport\DailyReport\obj\Debug\netcoreapp3.1\DailyReport.genruntimeconfig.cache

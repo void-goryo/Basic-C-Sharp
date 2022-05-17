@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Gabe\\source\\repos\\DailyReport\\DailyReport\\DailyReport.csproj": {}
+    "C:\\Users\\gabeh\\OneDrive\\Desktop\\Basic-C-Sharp\\DailyReport\\DailyReport\\DailyReport.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Gabe\\source\\repos\\DailyReport\\DailyReport\\DailyReport.csproj": {
+    "C:\\Users\\gabeh\\OneDrive\\Desktop\\Basic-C-Sharp\\DailyReport\\DailyReport\\DailyReport.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Gabe\\source\\repos\\DailyReport\\DailyReport\\DailyReport.csproj",
+        "projectUniqueName": "C:\\Users\\gabeh\\OneDrive\\Desktop\\Basic-C-Sharp\\DailyReport\\DailyReport\\DailyReport.csproj",
         "projectName": "DailyReport",
-        "projectPath": "C:\\Users\\Gabe\\source\\repos\\DailyReport\\DailyReport\\DailyReport.csproj",
-        "packagesPath": "C:\\Users\\Gabe\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Gabe\\source\\repos\\DailyReport\\DailyReport\\obj\\",
+        "projectPath": "C:\\Users\\gabeh\\OneDrive\\Desktop\\Basic-C-Sharp\\DailyReport\\DailyReport\\DailyReport.csproj",
+        "packagesPath": "C:\\Users\\gabeh\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\gabeh\\OneDrive\\Desktop\\Basic-C-Sharp\\DailyReport\\DailyReport\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Gabe\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\gabeh\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
