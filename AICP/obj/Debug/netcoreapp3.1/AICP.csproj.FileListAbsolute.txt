@@ -1,0 +1,13 @@
+C:\Users\gabeh\OneDrive\Desktop\Basic-C-Sharp\AICP\bin\Debug\netcoreapp3.1\AICP.exe
+C:\Users\gabeh\OneDrive\Desktop\Basic-C-Sharp\AICP\bin\Debug\netcoreapp3.1\AICP.deps.json
+C:\Users\gabeh\OneDrive\Desktop\Basic-C-Sharp\AICP\bin\Debug\netcoreapp3.1\AICP.runtimeconfig.json
+C:\Users\gabeh\OneDrive\Desktop\Basic-C-Sharp\AICP\bin\Debug\netcoreapp3.1\AICP.runtimeconfig.dev.json
+C:\Users\gabeh\OneDrive\Desktop\Basic-C-Sharp\AICP\bin\Debug\netcoreapp3.1\AICP.dll
+C:\Users\gabeh\OneDrive\Desktop\Basic-C-Sharp\AICP\bin\Debug\netcoreapp3.1\AICP.pdb
+C:\Users\gabeh\OneDrive\Desktop\Basic-C-Sharp\AICP\obj\Debug\netcoreapp3.1\AICP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabeh\OneDrive\Desktop\Basic-C-Sharp\AICP\obj\Debug\netcoreapp3.1\AICP.AssemblyInfoInputs.cache
+C:\Users\gabeh\OneDrive\Desktop\Basic-C-Sharp\AICP\obj\Debug\netcoreapp3.1\AICP.AssemblyInfo.cs
+C:\Users\gabeh\OneDrive\Desktop\Basic-C-Sharp\AICP\obj\Debug\netcoreapp3.1\AICP.csproj.CoreCompileInputs.cache
+C:\Users\gabeh\OneDrive\Desktop\Basic-C-Sharp\AICP\obj\Debug\netcoreapp3.1\AICP.dll
+C:\Users\gabeh\OneDrive\Desktop\Basic-C-Sharp\AICP\obj\Debug\netcoreapp3.1\AICP.pdb
+C:\Users\gabeh\OneDrive\Desktop\Basic-C-Sharp\AICP\obj\Debug\netcoreapp3.1\AICP.genruntimeconfig.cache
