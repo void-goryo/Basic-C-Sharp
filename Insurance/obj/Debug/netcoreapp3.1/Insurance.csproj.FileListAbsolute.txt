@@ -1,0 +1,14 @@
+C:\Users\gabeh\OneDrive\Desktop\Basic-C-Sharp\Insurance\bin\Debug\netcoreapp3.1\Insurance.exe
+C:\Users\gabeh\OneDrive\Desktop\Basic-C-Sharp\Insurance\bin\Debug\netcoreapp3.1\Insurance.deps.json
+C:\Users\gabeh\OneDrive\Desktop\Basic-C-Sharp\Insurance\bin\Debug\netcoreapp3.1\Insurance.runtimeconfig.json
+C:\Users\gabeh\OneDrive\Desktop\Basic-C-Sharp\Insurance\bin\Debug\netcoreapp3.1\Insurance.runtimeconfig.dev.json
+C:\Users\gabeh\OneDrive\Desktop\Basic-C-Sharp\Insurance\bin\Debug\netcoreapp3.1\Insurance.dll
+C:\Users\gabeh\OneDrive\Desktop\Basic-C-Sharp\Insurance\bin\Debug\netcoreapp3.1\Insurance.pdb
+C:\Users\gabeh\OneDrive\Desktop\Basic-C-Sharp\Insurance\obj\Debug\netcoreapp3.1\Insurance.csproj.AssemblyReference.cache
+C:\Users\gabeh\OneDrive\Desktop\Basic-C-Sharp\Insurance\obj\Debug\netcoreapp3.1\Insurance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabeh\OneDrive\Desktop\Basic-C-Sharp\Insurance\obj\Debug\netcoreapp3.1\Insurance.AssemblyInfoInputs.cache
+C:\Users\gabeh\OneDrive\Desktop\Basic-C-Sharp\Insurance\obj\Debug\netcoreapp3.1\Insurance.AssemblyInfo.cs
+C:\Users\gabeh\OneDrive\Desktop\Basic-C-Sharp\Insurance\obj\Debug\netcoreapp3.1\Insurance.csproj.CoreCompileInputs.cache
+C:\Users\gabeh\OneDrive\Desktop\Basic-C-Sharp\Insurance\obj\Debug\netcoreapp3.1\Insurance.dll
+C:\Users\gabeh\OneDrive\Desktop\Basic-C-Sharp\Insurance\obj\Debug\netcoreapp3.1\Insurance.pdb
+C:\Users\gabeh\OneDrive\Desktop\Basic-C-Sharp\Insurance\obj\Debug\netcoreapp3.1\Insurance.genruntimeconfig.cache
