@@ -1,0 +1,14 @@
+C:\Users\gabeh\source\repos\branching\obj\Debug\netcoreapp3.1\branching.csproj.AssemblyReference.cache
+C:\Users\gabeh\source\repos\branching\obj\Debug\netcoreapp3.1\branching.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabeh\source\repos\branching\obj\Debug\netcoreapp3.1\branching.AssemblyInfoInputs.cache
+C:\Users\gabeh\source\repos\branching\obj\Debug\netcoreapp3.1\branching.AssemblyInfo.cs
+C:\Users\gabeh\source\repos\branching\obj\Debug\netcoreapp3.1\branching.csproj.CoreCompileInputs.cache
+C:\Users\gabeh\source\repos\branching\bin\Debug\netcoreapp3.1\branching.exe
+C:\Users\gabeh\source\repos\branching\bin\Debug\netcoreapp3.1\branching.deps.json
+C:\Users\gabeh\source\repos\branching\bin\Debug\netcoreapp3.1\branching.runtimeconfig.json
+C:\Users\gabeh\source\repos\branching\bin\Debug\netcoreapp3.1\branching.runtimeconfig.dev.json
+C:\Users\gabeh\source\repos\branching\bin\Debug\netcoreapp3.1\branching.dll
+C:\Users\gabeh\source\repos\branching\bin\Debug\netcoreapp3.1\branching.pdb
+C:\Users\gabeh\source\repos\branching\obj\Debug\netcoreapp3.1\branching.dll
+C:\Users\gabeh\source\repos\branching\obj\Debug\netcoreapp3.1\branching.pdb
+C:\Users\gabeh\source\repos\branching\obj\Debug\netcoreapp3.1\branching.genruntimeconfig.cache

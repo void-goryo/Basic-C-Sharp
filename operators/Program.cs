@@ -41,6 +41,12 @@ namespace operators
             Console.WriteLine(isWarm);
             Console.ReadLine();
 
+            int num1 = 5;
+            int num2 = 10;
+
+            string result = num1 < num2 ? "num2 is greater then num1" : "num1 is not greater then num2";
+            Console.WriteLine(result);
+            Console.ReadLine();
 
 
         }

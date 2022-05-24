@@ -1,0 +1,14 @@
+C:\Users\gabeh\OneDrive\Desktop\Basic-C-Sharp\branchingAssignment\bin\Debug\netcoreapp3.1\branchingAssignment.exe
+C:\Users\gabeh\OneDrive\Desktop\Basic-C-Sharp\branchingAssignment\bin\Debug\netcoreapp3.1\branchingAssignment.deps.json
+C:\Users\gabeh\OneDrive\Desktop\Basic-C-Sharp\branchingAssignment\bin\Debug\netcoreapp3.1\branchingAssignment.runtimeconfig.json
+C:\Users\gabeh\OneDrive\Desktop\Basic-C-Sharp\branchingAssignment\bin\Debug\netcoreapp3.1\branchingAssignment.runtimeconfig.dev.json
+C:\Users\gabeh\OneDrive\Desktop\Basic-C-Sharp\branchingAssignment\bin\Debug\netcoreapp3.1\branchingAssignment.dll
+C:\Users\gabeh\OneDrive\Desktop\Basic-C-Sharp\branchingAssignment\bin\Debug\netcoreapp3.1\branchingAssignment.pdb
+C:\Users\gabeh\OneDrive\Desktop\Basic-C-Sharp\branchingAssignment\obj\Debug\netcoreapp3.1\branchingAssignment.csproj.AssemblyReference.cache
+C:\Users\gabeh\OneDrive\Desktop\Basic-C-Sharp\branchingAssignment\obj\Debug\netcoreapp3.1\branchingAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabeh\OneDrive\Desktop\Basic-C-Sharp\branchingAssignment\obj\Debug\netcoreapp3.1\branchingAssignment.AssemblyInfoInputs.cache
+C:\Users\gabeh\OneDrive\Desktop\Basic-C-Sharp\branchingAssignment\obj\Debug\netcoreapp3.1\branchingAssignment.AssemblyInfo.cs
+C:\Users\gabeh\OneDrive\Desktop\Basic-C-Sharp\branchingAssignment\obj\Debug\netcoreapp3.1\branchingAssignment.csproj.CoreCompileInputs.cache
+C:\Users\gabeh\OneDrive\Desktop\Basic-C-Sharp\branchingAssignment\obj\Debug\netcoreapp3.1\branchingAssignment.dll
+C:\Users\gabeh\OneDrive\Desktop\Basic-C-Sharp\branchingAssignment\obj\Debug\netcoreapp3.1\branchingAssignment.pdb
+C:\Users\gabeh\OneDrive\Desktop\Basic-C-Sharp\branchingAssignment\obj\Debug\netcoreapp3.1\branchingAssignment.genruntimeconfig.cache
