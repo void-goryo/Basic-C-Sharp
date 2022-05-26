@@ -30,6 +30,7 @@ namespace loopsexample
                         break;
                     case 12:
                         Console.WriteLine("You guessed correct!!");
+                        isGuessed = true;
                         break;
                     default:
                         Console.WriteLine("You are wrong.");

@@ -1,0 +1,13 @@
+C:\Users\gabeh\OneDrive\Desktop\Basic-C-Sharp\stringsExample\bin\Debug\netcoreapp3.1\stringsExample.exe
+C:\Users\gabeh\OneDrive\Desktop\Basic-C-Sharp\stringsExample\bin\Debug\netcoreapp3.1\stringsExample.deps.json
+C:\Users\gabeh\OneDrive\Desktop\Basic-C-Sharp\stringsExample\bin\Debug\netcoreapp3.1\stringsExample.runtimeconfig.json
+C:\Users\gabeh\OneDrive\Desktop\Basic-C-Sharp\stringsExample\bin\Debug\netcoreapp3.1\stringsExample.runtimeconfig.dev.json
+C:\Users\gabeh\OneDrive\Desktop\Basic-C-Sharp\stringsExample\bin\Debug\netcoreapp3.1\stringsExample.dll
+C:\Users\gabeh\OneDrive\Desktop\Basic-C-Sharp\stringsExample\bin\Debug\netcoreapp3.1\stringsExample.pdb
+C:\Users\gabeh\OneDrive\Desktop\Basic-C-Sharp\stringsExample\obj\Debug\netcoreapp3.1\stringsExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabeh\OneDrive\Desktop\Basic-C-Sharp\stringsExample\obj\Debug\netcoreapp3.1\stringsExample.AssemblyInfoInputs.cache
+C:\Users\gabeh\OneDrive\Desktop\Basic-C-Sharp\stringsExample\obj\Debug\netcoreapp3.1\stringsExample.AssemblyInfo.cs
+C:\Users\gabeh\OneDrive\Desktop\Basic-C-Sharp\stringsExample\obj\Debug\netcoreapp3.1\stringsExample.csproj.CoreCompileInputs.cache
+C:\Users\gabeh\OneDrive\Desktop\Basic-C-Sharp\stringsExample\obj\Debug\netcoreapp3.1\stringsExample.dll
+C:\Users\gabeh\OneDrive\Desktop\Basic-C-Sharp\stringsExample\obj\Debug\netcoreapp3.1\stringsExample.pdb
+C:\Users\gabeh\OneDrive\Desktop\Basic-C-Sharp\stringsExample\obj\Debug\netcoreapp3.1\stringsExample.genruntimeconfig.cache

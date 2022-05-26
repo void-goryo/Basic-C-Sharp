@@ -6,24 +6,43 @@ namespace loopsAssignment
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Please enter the number 5");
-            int number = Convert.ToInt32(Console.ReadLine());
-            bool isCorrect = number == 5;
+            Console.WriteLine("Please enter the number 4.");
+            int number1 = Convert.ToInt32(Console.ReadLine());
+            bool isCorrect1 = number1 == 4;
 
-            do      //does this line of code before it checks the while condition
+            while (!isCorrect1)
             {
-                switch (number)     //starts the comparison
+                switch (number1)
                 {
-                    case 5:     //specify what number we are looking for
-                        Console.WriteLine("Very good! You typed the number 5.");
-                        break;  //ends comparison
-                    default:    //if none of the cases are true, this is what is executed
-                        Console.WriteLine("You did not type the number 5. Please try again.");
-                        number = Convert.ToInt32(Console.ReadLine());
+                    case 5:
+                        Console.WriteLine("That is the correct number!");
+                        isCorrect1 = true;
+                        break;
+                    default:
+                        Console.WriteLine("That was not the right number.");
                         break;
                 }
             }
-            while (!isCorrect);      //at the end of the loop to check if "isCorrect" is true, after the program has already run.
+
+            Console.WriteLine("Please enter the number 5.");
+            int number2 = Convert.ToInt32(Console.ReadLine());
+            bool isCorrect2 = number2 == 5;
+
+            do      //does this line of code before it checks the while condition
+            {
+                switch (number2)     //starts the comparison
+                {
+                    case 5:     //specify what number we are looking for
+                        Console.WriteLine("Very good! You typed the number 5.");
+                        isCorrect2 = true;
+                        break;  //ends comparison
+                    default:    //if none of the cases are true, this is what is executed
+                        Console.WriteLine("You did not type the number 5. Please try again.");
+                        number2 = Convert.ToInt32(Console.ReadLine());
+                        break;
+                }
+            }
+            while (!isCorrect2);      //at the end of the loop to check if "isCorrect" is true, after the program has already run.
 
             Console.ReadLine();
 
