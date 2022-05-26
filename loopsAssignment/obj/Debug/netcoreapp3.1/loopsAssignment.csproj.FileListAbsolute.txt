@@ -1,0 +1,14 @@
+C:\Users\gabeh\OneDrive\Desktop\Basic-C-Sharp\loopsAssignment\bin\Debug\netcoreapp3.1\loopsAssignment.exe
+C:\Users\gabeh\OneDrive\Desktop\Basic-C-Sharp\loopsAssignment\bin\Debug\netcoreapp3.1\loopsAssignment.deps.json
+C:\Users\gabeh\OneDrive\Desktop\Basic-C-Sharp\loopsAssignment\bin\Debug\netcoreapp3.1\loopsAssignment.runtimeconfig.json
+C:\Users\gabeh\OneDrive\Desktop\Basic-C-Sharp\loopsAssignment\bin\Debug\netcoreapp3.1\loopsAssignment.runtimeconfig.dev.json
+C:\Users\gabeh\OneDrive\Desktop\Basic-C-Sharp\loopsAssignment\bin\Debug\netcoreapp3.1\loopsAssignment.dll
+C:\Users\gabeh\OneDrive\Desktop\Basic-C-Sharp\loopsAssignment\bin\Debug\netcoreapp3.1\loopsAssignment.pdb
+C:\Users\gabeh\OneDrive\Desktop\Basic-C-Sharp\loopsAssignment\obj\Debug\netcoreapp3.1\loopsAssignment.csproj.AssemblyReference.cache
+C:\Users\gabeh\OneDrive\Desktop\Basic-C-Sharp\loopsAssignment\obj\Debug\netcoreapp3.1\loopsAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabeh\OneDrive\Desktop\Basic-C-Sharp\loopsAssignment\obj\Debug\netcoreapp3.1\loopsAssignment.AssemblyInfoInputs.cache
+C:\Users\gabeh\OneDrive\Desktop\Basic-C-Sharp\loopsAssignment\obj\Debug\netcoreapp3.1\loopsAssignment.AssemblyInfo.cs
+C:\Users\gabeh\OneDrive\Desktop\Basic-C-Sharp\loopsAssignment\obj\Debug\netcoreapp3.1\loopsAssignment.csproj.CoreCompileInputs.cache
+C:\Users\gabeh\OneDrive\Desktop\Basic-C-Sharp\loopsAssignment\obj\Debug\netcoreapp3.1\loopsAssignment.dll
+C:\Users\gabeh\OneDrive\Desktop\Basic-C-Sharp\loopsAssignment\obj\Debug\netcoreapp3.1\loopsAssignment.pdb
+C:\Users\gabeh\OneDrive\Desktop\Basic-C-Sharp\loopsAssignment\obj\Debug\netcoreapp3.1\loopsAssignment.genruntimeconfig.cache
