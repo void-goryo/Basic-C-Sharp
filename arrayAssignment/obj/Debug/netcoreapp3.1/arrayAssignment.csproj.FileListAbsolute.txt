@@ -1,0 +1,14 @@
+C:\Users\gabeh\OneDrive\Desktop\Basic-C-Sharp\arrayAssignment\bin\Debug\netcoreapp3.1\arrayAssignment.exe
+C:\Users\gabeh\OneDrive\Desktop\Basic-C-Sharp\arrayAssignment\bin\Debug\netcoreapp3.1\arrayAssignment.deps.json
+C:\Users\gabeh\OneDrive\Desktop\Basic-C-Sharp\arrayAssignment\bin\Debug\netcoreapp3.1\arrayAssignment.runtimeconfig.json
+C:\Users\gabeh\OneDrive\Desktop\Basic-C-Sharp\arrayAssignment\bin\Debug\netcoreapp3.1\arrayAssignment.runtimeconfig.dev.json
+C:\Users\gabeh\OneDrive\Desktop\Basic-C-Sharp\arrayAssignment\bin\Debug\netcoreapp3.1\arrayAssignment.dll
+C:\Users\gabeh\OneDrive\Desktop\Basic-C-Sharp\arrayAssignment\bin\Debug\netcoreapp3.1\arrayAssignment.pdb
+C:\Users\gabeh\OneDrive\Desktop\Basic-C-Sharp\arrayAssignment\obj\Debug\netcoreapp3.1\arrayAssignment.csproj.AssemblyReference.cache
+C:\Users\gabeh\OneDrive\Desktop\Basic-C-Sharp\arrayAssignment\obj\Debug\netcoreapp3.1\arrayAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabeh\OneDrive\Desktop\Basic-C-Sharp\arrayAssignment\obj\Debug\netcoreapp3.1\arrayAssignment.AssemblyInfoInputs.cache
+C:\Users\gabeh\OneDrive\Desktop\Basic-C-Sharp\arrayAssignment\obj\Debug\netcoreapp3.1\arrayAssignment.AssemblyInfo.cs
+C:\Users\gabeh\OneDrive\Desktop\Basic-C-Sharp\arrayAssignment\obj\Debug\netcoreapp3.1\arrayAssignment.csproj.CoreCompileInputs.cache
+C:\Users\gabeh\OneDrive\Desktop\Basic-C-Sharp\arrayAssignment\obj\Debug\netcoreapp3.1\arrayAssignment.dll
+C:\Users\gabeh\OneDrive\Desktop\Basic-C-Sharp\arrayAssignment\obj\Debug\netcoreapp3.1\arrayAssignment.pdb
+C:\Users\gabeh\OneDrive\Desktop\Basic-C-Sharp\arrayAssignment\obj\Debug\netcoreapp3.1\arrayAssignment.genruntimeconfig.cache
