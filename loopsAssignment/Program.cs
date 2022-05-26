@@ -14,7 +14,7 @@ namespace loopsAssignment
             {
                 switch (number1)
                 {
-                    case 5:
+                    case 4:
                         Console.WriteLine("That is the correct number!");
                         isCorrect1 = true;
                         break;
