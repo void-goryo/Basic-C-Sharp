@@ -14,7 +14,7 @@ namespace branchingAssignment
 
 
             //weight check
-            if (lb >= 50)
+            if (lb > 50)
             {
                 Console.WriteLine("This package is too heavy to be shipped via Package Express. Have a good day!");
                 Console.ReadLine();
@@ -30,7 +30,8 @@ namespace branchingAssignment
             int height = Convert.ToInt32(Console.ReadLine());
 
             //dimensions check
-            if (length >= 50 || width >= 50 || height >= 50)
+            int totalsize = length + width + height;
+            if (totalsize > 50)
             {
                 Console.WriteLine("This package is too big to be shipped via Package Express. Have a good Day!");
                 Console.ReadLine();
