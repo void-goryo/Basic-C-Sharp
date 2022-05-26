@@ -1,0 +1,13 @@
+C:\Users\gabeh\OneDrive\Desktop\Basic-C-Sharp\stringAssignment\bin\Debug\netcoreapp3.1\stringAssignment.exe
+C:\Users\gabeh\OneDrive\Desktop\Basic-C-Sharp\stringAssignment\bin\Debug\netcoreapp3.1\stringAssignment.deps.json
+C:\Users\gabeh\OneDrive\Desktop\Basic-C-Sharp\stringAssignment\bin\Debug\netcoreapp3.1\stringAssignment.runtimeconfig.json
+C:\Users\gabeh\OneDrive\Desktop\Basic-C-Sharp\stringAssignment\bin\Debug\netcoreapp3.1\stringAssignment.runtimeconfig.dev.json
+C:\Users\gabeh\OneDrive\Desktop\Basic-C-Sharp\stringAssignment\bin\Debug\netcoreapp3.1\stringAssignment.dll
+C:\Users\gabeh\OneDrive\Desktop\Basic-C-Sharp\stringAssignment\bin\Debug\netcoreapp3.1\stringAssignment.pdb
+C:\Users\gabeh\OneDrive\Desktop\Basic-C-Sharp\stringAssignment\obj\Debug\netcoreapp3.1\stringAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabeh\OneDrive\Desktop\Basic-C-Sharp\stringAssignment\obj\Debug\netcoreapp3.1\stringAssignment.AssemblyInfoInputs.cache
+C:\Users\gabeh\OneDrive\Desktop\Basic-C-Sharp\stringAssignment\obj\Debug\netcoreapp3.1\stringAssignment.AssemblyInfo.cs
+C:\Users\gabeh\OneDrive\Desktop\Basic-C-Sharp\stringAssignment\obj\Debug\netcoreapp3.1\stringAssignment.csproj.CoreCompileInputs.cache
+C:\Users\gabeh\OneDrive\Desktop\Basic-C-Sharp\stringAssignment\obj\Debug\netcoreapp3.1\stringAssignment.dll
+C:\Users\gabeh\OneDrive\Desktop\Basic-C-Sharp\stringAssignment\obj\Debug\netcoreapp3.1\stringAssignment.pdb
+C:\Users\gabeh\OneDrive\Desktop\Basic-C-Sharp\stringAssignment\obj\Debug\netcoreapp3.1\stringAssignment.genruntimeconfig.cache

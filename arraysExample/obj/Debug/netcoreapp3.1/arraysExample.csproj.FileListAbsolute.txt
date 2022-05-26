@@ -1,0 +1,13 @@
+C:\Users\gabeh\OneDrive\Desktop\Basic-C-Sharp\arraysExample\bin\Debug\netcoreapp3.1\arraysExample.exe
+C:\Users\gabeh\OneDrive\Desktop\Basic-C-Sharp\arraysExample\bin\Debug\netcoreapp3.1\arraysExample.deps.json
+C:\Users\gabeh\OneDrive\Desktop\Basic-C-Sharp\arraysExample\bin\Debug\netcoreapp3.1\arraysExample.runtimeconfig.json
+C:\Users\gabeh\OneDrive\Desktop\Basic-C-Sharp\arraysExample\bin\Debug\netcoreapp3.1\arraysExample.runtimeconfig.dev.json
+C:\Users\gabeh\OneDrive\Desktop\Basic-C-Sharp\arraysExample\bin\Debug\netcoreapp3.1\arraysExample.dll
+C:\Users\gabeh\OneDrive\Desktop\Basic-C-Sharp\arraysExample\bin\Debug\netcoreapp3.1\arraysExample.pdb
+C:\Users\gabeh\OneDrive\Desktop\Basic-C-Sharp\arraysExample\obj\Debug\netcoreapp3.1\arraysExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabeh\OneDrive\Desktop\Basic-C-Sharp\arraysExample\obj\Debug\netcoreapp3.1\arraysExample.AssemblyInfoInputs.cache
+C:\Users\gabeh\OneDrive\Desktop\Basic-C-Sharp\arraysExample\obj\Debug\netcoreapp3.1\arraysExample.AssemblyInfo.cs
+C:\Users\gabeh\OneDrive\Desktop\Basic-C-Sharp\arraysExample\obj\Debug\netcoreapp3.1\arraysExample.csproj.CoreCompileInputs.cache
+C:\Users\gabeh\OneDrive\Desktop\Basic-C-Sharp\arraysExample\obj\Debug\netcoreapp3.1\arraysExample.dll
+C:\Users\gabeh\OneDrive\Desktop\Basic-C-Sharp\arraysExample\obj\Debug\netcoreapp3.1\arraysExample.pdb
+C:\Users\gabeh\OneDrive\Desktop\Basic-C-Sharp\arraysExample\obj\Debug\netcoreapp3.1\arraysExample.genruntimeconfig.cache
