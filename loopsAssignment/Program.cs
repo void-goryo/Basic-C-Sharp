@@ -19,10 +19,12 @@ namespace loopsAssignment
                         isCorrect1 = true;
                         break;
                     default:
-                        Console.WriteLine("That was not the right number.");
+                        Console.WriteLine("That was not the right number. Please try again.");
+                        number1 = Convert.ToInt32(Console.ReadLine());
                         break;
                 }
             }
+            Console.ReadLine();
 
             Console.WriteLine("Please enter the number 5.");
             int number2 = Convert.ToInt32(Console.ReadLine());
