@@ -1,0 +1,14 @@
+C:\Users\gabeh\OneDrive\Desktop\Basic-C-Sharp\itterationAssignment\bin\Debug\netcoreapp3.1\itterationAssignment.exe
+C:\Users\gabeh\OneDrive\Desktop\Basic-C-Sharp\itterationAssignment\bin\Debug\netcoreapp3.1\itterationAssignment.deps.json
+C:\Users\gabeh\OneDrive\Desktop\Basic-C-Sharp\itterationAssignment\bin\Debug\netcoreapp3.1\itterationAssignment.runtimeconfig.json
+C:\Users\gabeh\OneDrive\Desktop\Basic-C-Sharp\itterationAssignment\bin\Debug\netcoreapp3.1\itterationAssignment.runtimeconfig.dev.json
+C:\Users\gabeh\OneDrive\Desktop\Basic-C-Sharp\itterationAssignment\bin\Debug\netcoreapp3.1\itterationAssignment.dll
+C:\Users\gabeh\OneDrive\Desktop\Basic-C-Sharp\itterationAssignment\bin\Debug\netcoreapp3.1\itterationAssignment.pdb
+C:\Users\gabeh\OneDrive\Desktop\Basic-C-Sharp\itterationAssignment\obj\Debug\netcoreapp3.1\itterationAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabeh\OneDrive\Desktop\Basic-C-Sharp\itterationAssignment\obj\Debug\netcoreapp3.1\itterationAssignment.AssemblyInfoInputs.cache
+C:\Users\gabeh\OneDrive\Desktop\Basic-C-Sharp\itterationAssignment\obj\Debug\netcoreapp3.1\itterationAssignment.AssemblyInfo.cs
+C:\Users\gabeh\OneDrive\Desktop\Basic-C-Sharp\itterationAssignment\obj\Debug\netcoreapp3.1\itterationAssignment.csproj.CoreCompileInputs.cache
+C:\Users\gabeh\OneDrive\Desktop\Basic-C-Sharp\itterationAssignment\obj\Debug\netcoreapp3.1\itterationAssignment.dll
+C:\Users\gabeh\OneDrive\Desktop\Basic-C-Sharp\itterationAssignment\obj\Debug\netcoreapp3.1\itterationAssignment.pdb
+C:\Users\gabeh\OneDrive\Desktop\Basic-C-Sharp\itterationAssignment\obj\Debug\netcoreapp3.1\itterationAssignment.genruntimeconfig.cache
+C:\Users\gabeh\OneDrive\Desktop\Basic-C-Sharp\itterationAssignment\obj\Debug\netcoreapp3.1\itterationAssignment.csproj.AssemblyReference.cache
