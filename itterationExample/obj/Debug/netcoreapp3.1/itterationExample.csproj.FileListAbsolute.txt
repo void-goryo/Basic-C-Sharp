@@ -1,0 +1,14 @@
+C:\Users\gabeh\OneDrive\Desktop\Basic-C-Sharp\itterationExample\bin\Debug\netcoreapp3.1\itterationExample.exe
+C:\Users\gabeh\OneDrive\Desktop\Basic-C-Sharp\itterationExample\bin\Debug\netcoreapp3.1\itterationExample.deps.json
+C:\Users\gabeh\OneDrive\Desktop\Basic-C-Sharp\itterationExample\bin\Debug\netcoreapp3.1\itterationExample.runtimeconfig.json
+C:\Users\gabeh\OneDrive\Desktop\Basic-C-Sharp\itterationExample\bin\Debug\netcoreapp3.1\itterationExample.runtimeconfig.dev.json
+C:\Users\gabeh\OneDrive\Desktop\Basic-C-Sharp\itterationExample\bin\Debug\netcoreapp3.1\itterationExample.dll
+C:\Users\gabeh\OneDrive\Desktop\Basic-C-Sharp\itterationExample\bin\Debug\netcoreapp3.1\itterationExample.pdb
+C:\Users\gabeh\OneDrive\Desktop\Basic-C-Sharp\itterationExample\obj\Debug\netcoreapp3.1\itterationExample.csproj.AssemblyReference.cache
+C:\Users\gabeh\OneDrive\Desktop\Basic-C-Sharp\itterationExample\obj\Debug\netcoreapp3.1\itterationExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabeh\OneDrive\Desktop\Basic-C-Sharp\itterationExample\obj\Debug\netcoreapp3.1\itterationExample.AssemblyInfoInputs.cache
+C:\Users\gabeh\OneDrive\Desktop\Basic-C-Sharp\itterationExample\obj\Debug\netcoreapp3.1\itterationExample.AssemblyInfo.cs
+C:\Users\gabeh\OneDrive\Desktop\Basic-C-Sharp\itterationExample\obj\Debug\netcoreapp3.1\itterationExample.csproj.CoreCompileInputs.cache
+C:\Users\gabeh\OneDrive\Desktop\Basic-C-Sharp\itterationExample\obj\Debug\netcoreapp3.1\itterationExample.dll
+C:\Users\gabeh\OneDrive\Desktop\Basic-C-Sharp\itterationExample\obj\Debug\netcoreapp3.1\itterationExample.pdb
+C:\Users\gabeh\OneDrive\Desktop\Basic-C-Sharp\itterationExample\obj\Debug\netcoreapp3.1\itterationExample.genruntimeconfig.cache
