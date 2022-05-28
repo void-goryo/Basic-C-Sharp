@@ -110,11 +110,44 @@ class Program
         Console.ReadLine();
 
 
-        List<string> stringList = new List<string>() { "Snake", "Snake", "Dog", "Cat" };
+        List<string> stringList = new List<string>() { "snake", "dog", "snake", "cat" };
         Console.WriteLine("Please select either a Dog, Cat, or Snake");
         string animal = Console.ReadLine().ToLower();
         match = false;
 
-        
+        for(int i = 0; i < stringList.Count; i++)
+        {
+            if(animal == stringList[i])
+            {
+                Console.WriteLine(i);
+            }
+        }
+        Console.ReadLine();
+
+        //foreach loop
+        int repeat = 0;
+        foreach(string creature in stringList)
+        {
+            for(int i = 0; i < stringList.Count; i++)
+            {
+                for(int j = 0; j < stringList.Count; j++)
+                {
+                    if (i == j)
+                    {
+                        continue;
+                    }
+                    else if (stringList[i] == stringList[j])
+                    {
+                        repeat++;
+                    }
+                }
+            }
+            Console.WriteLine(creature);
+        }
+        if(repeat > 0)
+        {
+            Console.Write("An animal has appeared in the list more then once");
+        }
+        Console.ReadLine();
     }
 }
