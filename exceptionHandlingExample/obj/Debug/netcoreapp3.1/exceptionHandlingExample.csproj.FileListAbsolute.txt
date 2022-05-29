@@ -1,0 +1,13 @@
+C:\Users\gabeh\OneDrive\Desktop\Basic-C-Sharp\exceptionHandlingExample\bin\Debug\netcoreapp3.1\exceptionHandlingExample.exe
+C:\Users\gabeh\OneDrive\Desktop\Basic-C-Sharp\exceptionHandlingExample\bin\Debug\netcoreapp3.1\exceptionHandlingExample.deps.json
+C:\Users\gabeh\OneDrive\Desktop\Basic-C-Sharp\exceptionHandlingExample\bin\Debug\netcoreapp3.1\exceptionHandlingExample.runtimeconfig.json
+C:\Users\gabeh\OneDrive\Desktop\Basic-C-Sharp\exceptionHandlingExample\bin\Debug\netcoreapp3.1\exceptionHandlingExample.runtimeconfig.dev.json
+C:\Users\gabeh\OneDrive\Desktop\Basic-C-Sharp\exceptionHandlingExample\bin\Debug\netcoreapp3.1\exceptionHandlingExample.dll
+C:\Users\gabeh\OneDrive\Desktop\Basic-C-Sharp\exceptionHandlingExample\bin\Debug\netcoreapp3.1\exceptionHandlingExample.pdb
+C:\Users\gabeh\OneDrive\Desktop\Basic-C-Sharp\exceptionHandlingExample\obj\Debug\netcoreapp3.1\exceptionHandlingExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabeh\OneDrive\Desktop\Basic-C-Sharp\exceptionHandlingExample\obj\Debug\netcoreapp3.1\exceptionHandlingExample.AssemblyInfoInputs.cache
+C:\Users\gabeh\OneDrive\Desktop\Basic-C-Sharp\exceptionHandlingExample\obj\Debug\netcoreapp3.1\exceptionHandlingExample.AssemblyInfo.cs
+C:\Users\gabeh\OneDrive\Desktop\Basic-C-Sharp\exceptionHandlingExample\obj\Debug\netcoreapp3.1\exceptionHandlingExample.csproj.CoreCompileInputs.cache
+C:\Users\gabeh\OneDrive\Desktop\Basic-C-Sharp\exceptionHandlingExample\obj\Debug\netcoreapp3.1\exceptionHandlingExample.dll
+C:\Users\gabeh\OneDrive\Desktop\Basic-C-Sharp\exceptionHandlingExample\obj\Debug\netcoreapp3.1\exceptionHandlingExample.pdb
+C:\Users\gabeh\OneDrive\Desktop\Basic-C-Sharp\exceptionHandlingExample\obj\Debug\netcoreapp3.1\exceptionHandlingExample.genruntimeconfig.cache
