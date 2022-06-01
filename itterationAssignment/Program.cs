@@ -67,17 +67,21 @@ class Program
         List<string> fruits = new List<string>() { "apple", "blueberry", "coconut", "duran", "eggplant", "fuji apple", "grape" };
         Console.WriteLine("Please type a food that you would like to see.");
         string food = Console.ReadLine().ToLower();
-        bool match = false;
-       
+
+        int results = 0;
         for(int i = 0; i < fruits.Count; i++)
         {
             if(food == fruits[i])
             {
                 Console.WriteLine(i);
+                results++;
             }
         }
 
-
+        if(results == 0)
+        {
+            Console.WriteLine("There is not " + food + " in this list");
+        }
 
         Console.ReadLine();
 
@@ -85,7 +89,6 @@ class Program
         List<string> stringList = new List<string>() { "snake", "dog", "snake", "cat" };
         Console.WriteLine("Please select either a Dog, Cat, or Snake");
         string animal = Console.ReadLine().ToLower();
-        match = false;
 
         for(int i = 0; i < stringList.Count; i++)
         {
