@@ -64,49 +64,60 @@ class Program
         }
 
         //list of strings
-        List<string> fruits = new List<string>() { "Apple", "Blueberry", "Coconut", "Duran", "Eggplant", "Fuji Apple", "Grape" };
+        List<string> fruits = new List<string>() { "apple", "blueberry", "coconut", "duran", "eggplant", "fuji apple", "grape" };
         Console.WriteLine("Please type a food that you would like to see.");
         string food = Console.ReadLine().ToLower();
         bool match = false;
-        do
+        //do
+        //{
+        //    switch (food)
+        //    {
+        //        case "apple":
+        //            Console.WriteLine(fruits[0]);
+        //            match = true;
+        //            break;
+        //        case "blueberry":
+        //            Console.WriteLine(fruits[1]);
+        //            match = true;
+        //            break;
+        //        case "coconut":
+        //            Console.WriteLine(fruits[2]);
+        //            match = true;
+        //            break;
+        //        case "Duran":
+        //            Console.WriteLine(fruits[3]);
+        //            match = true;
+        //            break;
+        //        case "eggplant":
+        //            Console.WriteLine(fruits[4]);
+        //            match = true;
+        //            break;
+        //        case "fuji apple":
+        //            Console.WriteLine(fruits[5]);
+        //            match = true;
+        //            break;
+        //        case "grape":
+        //            Console.WriteLine(fruits[6]);
+        //            match = true;
+        //            break;
+        //        default:
+        //            Console.Write("That food is not on the list. Please try again.\n");
+        //            food = Console.ReadLine().ToLower();
+        //            break;
+        //    }
+        //}
+        //while (!match);
+
+        for(int i = 0; i < fruits.Count; i++)
         {
-            switch (food)
+            if(food == fruits[i])
             {
-                case "apple":
-                    Console.WriteLine(fruits[0]);
-                    match = true;
-                    break;
-                case "blueberry":
-                    Console.WriteLine(fruits[1]);
-                    match = true;
-                    break;
-                case "coconut":
-                    Console.WriteLine(fruits[2]);
-                    match = true;
-                    break;
-                case "Duran":
-                    Console.WriteLine(fruits[3]);
-                    match = true;
-                    break;
-                case "eggplant":
-                    Console.WriteLine(fruits[4]);
-                    match = true;
-                    break;
-                case "fuji apple":
-                    Console.WriteLine(fruits[5]);
-                    match = true;
-                    break;
-                case "grape":
-                    Console.WriteLine(fruits[6]);
-                    match = true;
-                    break;
-                default:
-                    Console.Write("That food is not on the list. Please try again.\n");
-                    food = Console.ReadLine().ToLower();
-                    break;
+                Console.WriteLine(i);
             }
         }
-        while (!match);
+
+
+
         Console.ReadLine();
 
 
