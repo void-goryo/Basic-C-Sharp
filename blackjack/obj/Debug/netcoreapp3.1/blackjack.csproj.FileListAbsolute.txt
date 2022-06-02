@@ -11,3 +11,4 @@ C:\Users\gabeh\OneDrive\Desktop\Basic-C-Sharp\blackjack\obj\Debug\netcoreapp3.1\
 C:\Users\gabeh\OneDrive\Desktop\Basic-C-Sharp\blackjack\obj\Debug\netcoreapp3.1\blackjack.dll
 C:\Users\gabeh\OneDrive\Desktop\Basic-C-Sharp\blackjack\obj\Debug\netcoreapp3.1\blackjack.pdb
 C:\Users\gabeh\OneDrive\Desktop\Basic-C-Sharp\blackjack\obj\Debug\netcoreapp3.1\blackjack.genruntimeconfig.cache
+C:\Users\gabeh\OneDrive\Desktop\Basic-C-Sharp\blackjack\obj\Debug\netcoreapp3.1\blackjack.csproj.AssemblyReference.cache

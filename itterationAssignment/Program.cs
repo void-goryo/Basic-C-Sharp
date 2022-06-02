@@ -90,38 +90,34 @@ class Program
         Console.WriteLine("Please select either a Dog, Cat, or Snake");
         string animal = Console.ReadLine().ToLower();
 
+        int onList = 0;
         for(int i = 0; i < stringList.Count; i++)
         {
             if(animal == stringList[i])
             {
                 Console.WriteLine(i);
+                onList++;
             }
+        }
+        if(onList == 0)
+        {
+            Console.WriteLine("That was not on the list...");       
         }
         Console.ReadLine();
 
         //foreach loop
-        int repeat = 0;
-        foreach(string creature in stringList)
+        List<string> compare = new List<string>();
+        foreach (string creature in stringList)
         {
-            for(int i = 0; i < stringList.Count; i++)
+            if (compare.Contains(creature))
             {
-                for(int j = 0; j < stringList.Count; j++)
-                {
-                    if (i == j)
-                    {
-                        continue;
-                    }
-                    else if (stringList[i] == stringList[j])
-                    {
-                        repeat++;
-                    }
-                }
+                Console.WriteLine(creature + " has shown up more than once in the list");
             }
-            Console.WriteLine(creature);
-        }
-        if(repeat > 0)
-        {
-            Console.Write("An animal has appeared in the list more then once");
+            else
+            {
+                Console.WriteLine(creature + " has shown up once");
+                compare.Add(creature);
+            }
         }
         Console.ReadLine();
     }

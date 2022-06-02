@@ -15,7 +15,7 @@ namespace blackjack
             
 
 
-            //Console.WriteLine(cardOne.Face + " of " + cardOne.Suit);
+            Console.WriteLine(deck.Cards[0].Face + " of " + deck.Cards[0].Suit);
             Console.ReadLine();
         }
     }
