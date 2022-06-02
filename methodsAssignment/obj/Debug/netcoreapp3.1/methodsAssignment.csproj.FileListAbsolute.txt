@@ -1,0 +1,14 @@
+C:\Users\gabeh\OneDrive\Desktop\Basic-C-Sharp\methodsAssignment\bin\Debug\netcoreapp3.1\methodsAssignment.exe
+C:\Users\gabeh\OneDrive\Desktop\Basic-C-Sharp\methodsAssignment\bin\Debug\netcoreapp3.1\methodsAssignment.deps.json
+C:\Users\gabeh\OneDrive\Desktop\Basic-C-Sharp\methodsAssignment\bin\Debug\netcoreapp3.1\methodsAssignment.runtimeconfig.json
+C:\Users\gabeh\OneDrive\Desktop\Basic-C-Sharp\methodsAssignment\bin\Debug\netcoreapp3.1\methodsAssignment.runtimeconfig.dev.json
+C:\Users\gabeh\OneDrive\Desktop\Basic-C-Sharp\methodsAssignment\bin\Debug\netcoreapp3.1\methodsAssignment.dll
+C:\Users\gabeh\OneDrive\Desktop\Basic-C-Sharp\methodsAssignment\bin\Debug\netcoreapp3.1\methodsAssignment.pdb
+C:\Users\gabeh\OneDrive\Desktop\Basic-C-Sharp\methodsAssignment\obj\Debug\netcoreapp3.1\methodsAssignment.csproj.AssemblyReference.cache
+C:\Users\gabeh\OneDrive\Desktop\Basic-C-Sharp\methodsAssignment\obj\Debug\netcoreapp3.1\methodsAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabeh\OneDrive\Desktop\Basic-C-Sharp\methodsAssignment\obj\Debug\netcoreapp3.1\methodsAssignment.AssemblyInfoInputs.cache
+C:\Users\gabeh\OneDrive\Desktop\Basic-C-Sharp\methodsAssignment\obj\Debug\netcoreapp3.1\methodsAssignment.AssemblyInfo.cs
+C:\Users\gabeh\OneDrive\Desktop\Basic-C-Sharp\methodsAssignment\obj\Debug\netcoreapp3.1\methodsAssignment.csproj.CoreCompileInputs.cache
+C:\Users\gabeh\OneDrive\Desktop\Basic-C-Sharp\methodsAssignment\obj\Debug\netcoreapp3.1\methodsAssignment.dll
+C:\Users\gabeh\OneDrive\Desktop\Basic-C-Sharp\methodsAssignment\obj\Debug\netcoreapp3.1\methodsAssignment.pdb
+C:\Users\gabeh\OneDrive\Desktop\Basic-C-Sharp\methodsAssignment\obj\Debug\netcoreapp3.1\methodsAssignment.genruntimeconfig.cache
