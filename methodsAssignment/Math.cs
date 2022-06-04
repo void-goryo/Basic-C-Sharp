@@ -6,11 +6,24 @@ namespace methodsAssignment
 {
     public class Math
     {
-        public Math Addition()
+        public int Addition(int num1)
         {
-            int addedNum = number + 5;
+            int addedNum = num1 + 5;
             return addedNum;
         }
-        public int number { get; set; } //sets a variable to a public variable that can be called and set in other classes
+        
+        public int Subtraction(int num2)
+        {
+            int subNum = num2 - 5;
+            return subNum;
+        }
+
+        public int multi(int num3)
+        {
+            int multiNum = num3 * 5;
+            return multiNum;
+        }
+
+
     }
 }
