@@ -1,0 +1,13 @@
+C:\Users\gabeh\OneDrive\Desktop\Basic-C-Sharp\methodsAndObjects\bin\Debug\netcoreapp3.1\methodsAndObjects.exe
+C:\Users\gabeh\OneDrive\Desktop\Basic-C-Sharp\methodsAndObjects\bin\Debug\netcoreapp3.1\methodsAndObjects.deps.json
+C:\Users\gabeh\OneDrive\Desktop\Basic-C-Sharp\methodsAndObjects\bin\Debug\netcoreapp3.1\methodsAndObjects.runtimeconfig.json
+C:\Users\gabeh\OneDrive\Desktop\Basic-C-Sharp\methodsAndObjects\bin\Debug\netcoreapp3.1\methodsAndObjects.runtimeconfig.dev.json
+C:\Users\gabeh\OneDrive\Desktop\Basic-C-Sharp\methodsAndObjects\bin\Debug\netcoreapp3.1\methodsAndObjects.dll
+C:\Users\gabeh\OneDrive\Desktop\Basic-C-Sharp\methodsAndObjects\bin\Debug\netcoreapp3.1\methodsAndObjects.pdb
+C:\Users\gabeh\OneDrive\Desktop\Basic-C-Sharp\methodsAndObjects\obj\Debug\netcoreapp3.1\methodsAndObjects.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabeh\OneDrive\Desktop\Basic-C-Sharp\methodsAndObjects\obj\Debug\netcoreapp3.1\methodsAndObjects.AssemblyInfoInputs.cache
+C:\Users\gabeh\OneDrive\Desktop\Basic-C-Sharp\methodsAndObjects\obj\Debug\netcoreapp3.1\methodsAndObjects.AssemblyInfo.cs
+C:\Users\gabeh\OneDrive\Desktop\Basic-C-Sharp\methodsAndObjects\obj\Debug\netcoreapp3.1\methodsAndObjects.csproj.CoreCompileInputs.cache
+C:\Users\gabeh\OneDrive\Desktop\Basic-C-Sharp\methodsAndObjects\obj\Debug\netcoreapp3.1\methodsAndObjects.dll
+C:\Users\gabeh\OneDrive\Desktop\Basic-C-Sharp\methodsAndObjects\obj\Debug\netcoreapp3.1\methodsAndObjects.pdb
+C:\Users\gabeh\OneDrive\Desktop\Basic-C-Sharp\methodsAndObjects\obj\Debug\netcoreapp3.1\methodsAndObjects.genruntimeconfig.cache

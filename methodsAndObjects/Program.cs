@@ -6,7 +6,11 @@ namespace methodsAndObjects
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Employee name = new Employee();     //calling Employee
+
+            name.FirstName = "Sample";          //Employee inherites the variables from the Person class
+            name.LastName = "Student";
+            name.SayName();                     //superclass method calling from Employee, which is getting method from Person class
         }
     }
 }

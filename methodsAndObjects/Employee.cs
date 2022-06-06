@@ -4,7 +4,8 @@ using System.Text;
 
 namespace methodsAndObjects
 {
-    class Employee
+    public class Employee : Person      //takes values from Person class
     {
+        public int Id;
     }
 }
