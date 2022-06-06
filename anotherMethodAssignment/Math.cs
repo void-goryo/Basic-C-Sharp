@@ -6,7 +6,7 @@ namespace anotherMethodAssignment
 {
     class Math
     {
-        public int CompAdd(int num1, int num2)
+        public int CompAdd(int num1, int num2 = 5)
         {
             int answer = num1 + num2;
             return answer;

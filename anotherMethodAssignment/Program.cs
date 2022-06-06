@@ -11,10 +11,17 @@ namespace anotherMethodAssignment
             Console.WriteLine("Number one:");
             int num3 = Convert.ToInt32(Console.ReadLine());
             Console.WriteLine("Number two:");
-            int? num4 = Convert.ToInt32(Console.ReadLine());
-            int num5 = Convert.ToInt32(num4);
-            user.CompAdd(num3, num5);
-
+            string? num4 = Console.ReadLine();
+            if (num4 == "")
+            {
+                Console.WriteLine(user.CompAdd(num3));
+            }
+            else
+            {
+                int num5 = Convert.ToInt32(num4);
+                Console.WriteLine(user.CompAdd(num3, num5));
+            }
+            Console.ReadLine();
          }
      }
 }
