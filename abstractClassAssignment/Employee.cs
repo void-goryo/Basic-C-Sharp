@@ -4,7 +4,11 @@ using System.Text;
 
 namespace abstractClassAssignment
 {
-    class Employee
+    public class Employee : Person      //inherits values and methods
     {
+        public override void SayName()      //overriding method. if there was code there, it would add all the code in one line using base.SayName()
+        {
+            Console.WriteLine("Hello, " + firstName + " " + lastName);
+        }
     }
 }

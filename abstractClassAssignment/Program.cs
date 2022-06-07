@@ -6,7 +6,14 @@ namespace abstractClassAssignment
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Employee user = new Employee();
+            Console.WriteLine("What is your first name?");
+            user.firstName = Console.ReadLine();
+
+            Console.WriteLine("What is your last name?");
+            user.lastName = Console.ReadLine();
+
+            user.SayName();
         }
     }
 }

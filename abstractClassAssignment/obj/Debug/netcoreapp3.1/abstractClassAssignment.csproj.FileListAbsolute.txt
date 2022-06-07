@@ -1,0 +1,14 @@
+C:\Users\gabeh\OneDrive\Desktop\Basic-C-Sharp\abstractClassAssignment\bin\Debug\netcoreapp3.1\abstractClassAssignment.exe
+C:\Users\gabeh\OneDrive\Desktop\Basic-C-Sharp\abstractClassAssignment\bin\Debug\netcoreapp3.1\abstractClassAssignment.deps.json
+C:\Users\gabeh\OneDrive\Desktop\Basic-C-Sharp\abstractClassAssignment\bin\Debug\netcoreapp3.1\abstractClassAssignment.runtimeconfig.json
+C:\Users\gabeh\OneDrive\Desktop\Basic-C-Sharp\abstractClassAssignment\bin\Debug\netcoreapp3.1\abstractClassAssignment.runtimeconfig.dev.json
+C:\Users\gabeh\OneDrive\Desktop\Basic-C-Sharp\abstractClassAssignment\bin\Debug\netcoreapp3.1\abstractClassAssignment.dll
+C:\Users\gabeh\OneDrive\Desktop\Basic-C-Sharp\abstractClassAssignment\bin\Debug\netcoreapp3.1\abstractClassAssignment.pdb
+C:\Users\gabeh\OneDrive\Desktop\Basic-C-Sharp\abstractClassAssignment\obj\Debug\netcoreapp3.1\abstractClassAssignment.csproj.AssemblyReference.cache
+C:\Users\gabeh\OneDrive\Desktop\Basic-C-Sharp\abstractClassAssignment\obj\Debug\netcoreapp3.1\abstractClassAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabeh\OneDrive\Desktop\Basic-C-Sharp\abstractClassAssignment\obj\Debug\netcoreapp3.1\abstractClassAssignment.AssemblyInfoInputs.cache
+C:\Users\gabeh\OneDrive\Desktop\Basic-C-Sharp\abstractClassAssignment\obj\Debug\netcoreapp3.1\abstractClassAssignment.AssemblyInfo.cs
+C:\Users\gabeh\OneDrive\Desktop\Basic-C-Sharp\abstractClassAssignment\obj\Debug\netcoreapp3.1\abstractClassAssignment.csproj.CoreCompileInputs.cache
+C:\Users\gabeh\OneDrive\Desktop\Basic-C-Sharp\abstractClassAssignment\obj\Debug\netcoreapp3.1\abstractClassAssignment.dll
+C:\Users\gabeh\OneDrive\Desktop\Basic-C-Sharp\abstractClassAssignment\obj\Debug\netcoreapp3.1\abstractClassAssignment.pdb
+C:\Users\gabeh\OneDrive\Desktop\Basic-C-Sharp\abstractClassAssignment\obj\Debug\netcoreapp3.1\abstractClassAssignment.genruntimeconfig.cache
