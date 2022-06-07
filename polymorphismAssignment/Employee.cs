@@ -4,11 +4,15 @@ using System.Text;
 
 namespace polymorphismAssignment
 {
-    class Play : IQuittable
+    class Employee : Person, IQuittable
     {
         public void Quit()
         {
             throw new NotImplementedException();
+        }
+        public override void SayName()      
+        {
+            Console.WriteLine("Hello, " + firstName + " " + lastName);
         }
     }
 }
