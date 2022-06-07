@@ -4,13 +4,15 @@ using System.Text;
 
 namespace blackjack
 {
-    public class Game
+    public abstract class Game
     {
         public List<string> Players { get; set; }
         public string Name { get; set; }
         public string Dealer { get; set; }
 
-        public void ListPlayers()
+        public abstract void Play();        //say that you NEED to use this method
+
+        public virtual void ListPlayers()       //a virtual method in an abstract class means that the method gets inhereted in an inhereting class to be overwriten
         {
             foreach (string player in Players)
             {
