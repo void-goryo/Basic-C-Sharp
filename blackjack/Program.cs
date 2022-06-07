@@ -14,7 +14,8 @@ namespace blackjack
             game.Players = new List<Player>();
             Player player = new Player();
             player.Name = "game";
-            game = game + player;
+            game += player;
+            game -= player;
 
 
             Deck deck = new Deck();
