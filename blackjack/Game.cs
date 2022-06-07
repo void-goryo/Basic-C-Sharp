@@ -6,7 +6,7 @@ namespace blackjack
 {
     public abstract class Game
     {
-        public List<string> Players { get; set; }
+        public List<Player> Players { get; set; }
         public string Name { get; set; }
         public string Dealer { get; set; }
 
@@ -14,9 +14,9 @@ namespace blackjack
 
         public virtual void ListPlayers()       //a virtual method in an abstract class means that the method gets inhereted in an inhereting class to be overwriten
         {
-            foreach (string player in Players)
+            foreach (Player player in Players)
             {
-                Console.WriteLine(player);
+                Console.WriteLine(player.Name);
             }
         }
     }
