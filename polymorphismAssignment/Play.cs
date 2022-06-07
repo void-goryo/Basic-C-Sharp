@@ -4,7 +4,11 @@ using System.Text;
 
 namespace polymorphismAssignment
 {
-    class Play
+    class Play : IQuittable
     {
+        public void Quit()
+        {
+            throw new NotImplementedException();
+        }
     }
 }

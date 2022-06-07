@@ -6,7 +6,8 @@ namespace polymorphismAssignment
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Play user = new Play();
+            user.Quit();
         }
     }
 }

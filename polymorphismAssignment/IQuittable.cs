@@ -6,5 +6,6 @@ namespace polymorphismAssignment
 {
     interface IQuittable
     {
+        void Quit();
     }
 }
