@@ -4,7 +4,7 @@ using System.Text;
 
 namespace blackjack
 {
-    public class TwentyOneGame : Game   //this inherits properties from the Game class
+    public class TwentyOneGame : Game, IWalkAway   //this inherits properties from the Game class
     {
         public override void Play()
         {
@@ -14,6 +14,10 @@ namespace blackjack
         {
             Console.WriteLine("Blackjack Players: ");
             base.ListPlayers();                         //uses what is already writen in ListPlayers()
+        }
+        public void walkAway(Player player)
+        {
+            throw new NotImplementedException();
         }
     }
 }
