@@ -1,0 +1,13 @@
+C:\Users\Gabe\Desktop\Basic-C-Sharp\parametersAssignment\bin\Debug\netcoreapp3.1\parametersAssignment.exe
+C:\Users\Gabe\Desktop\Basic-C-Sharp\parametersAssignment\bin\Debug\netcoreapp3.1\parametersAssignment.deps.json
+C:\Users\Gabe\Desktop\Basic-C-Sharp\parametersAssignment\bin\Debug\netcoreapp3.1\parametersAssignment.runtimeconfig.json
+C:\Users\Gabe\Desktop\Basic-C-Sharp\parametersAssignment\bin\Debug\netcoreapp3.1\parametersAssignment.runtimeconfig.dev.json
+C:\Users\Gabe\Desktop\Basic-C-Sharp\parametersAssignment\bin\Debug\netcoreapp3.1\parametersAssignment.dll
+C:\Users\Gabe\Desktop\Basic-C-Sharp\parametersAssignment\bin\Debug\netcoreapp3.1\parametersAssignment.pdb
+C:\Users\Gabe\Desktop\Basic-C-Sharp\parametersAssignment\obj\Debug\netcoreapp3.1\parametersAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabe\Desktop\Basic-C-Sharp\parametersAssignment\obj\Debug\netcoreapp3.1\parametersAssignment.AssemblyInfoInputs.cache
+C:\Users\Gabe\Desktop\Basic-C-Sharp\parametersAssignment\obj\Debug\netcoreapp3.1\parametersAssignment.AssemblyInfo.cs
+C:\Users\Gabe\Desktop\Basic-C-Sharp\parametersAssignment\obj\Debug\netcoreapp3.1\parametersAssignment.csproj.CoreCompileInputs.cache
+C:\Users\Gabe\Desktop\Basic-C-Sharp\parametersAssignment\obj\Debug\netcoreapp3.1\parametersAssignment.dll
+C:\Users\Gabe\Desktop\Basic-C-Sharp\parametersAssignment\obj\Debug\netcoreapp3.1\parametersAssignment.pdb
+C:\Users\Gabe\Desktop\Basic-C-Sharp\parametersAssignment\obj\Debug\netcoreapp3.1\parametersAssignment.genruntimeconfig.cache
