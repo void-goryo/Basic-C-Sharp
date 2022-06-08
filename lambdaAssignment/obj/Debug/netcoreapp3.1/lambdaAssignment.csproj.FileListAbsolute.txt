@@ -1,0 +1,14 @@
+C:\Users\Gabe\Desktop\Basic-C-Sharp\lambdaAssignment\bin\Debug\netcoreapp3.1\lambdaAssignment.exe
+C:\Users\Gabe\Desktop\Basic-C-Sharp\lambdaAssignment\bin\Debug\netcoreapp3.1\lambdaAssignment.deps.json
+C:\Users\Gabe\Desktop\Basic-C-Sharp\lambdaAssignment\bin\Debug\netcoreapp3.1\lambdaAssignment.runtimeconfig.json
+C:\Users\Gabe\Desktop\Basic-C-Sharp\lambdaAssignment\bin\Debug\netcoreapp3.1\lambdaAssignment.runtimeconfig.dev.json
+C:\Users\Gabe\Desktop\Basic-C-Sharp\lambdaAssignment\bin\Debug\netcoreapp3.1\lambdaAssignment.dll
+C:\Users\Gabe\Desktop\Basic-C-Sharp\lambdaAssignment\bin\Debug\netcoreapp3.1\lambdaAssignment.pdb
+C:\Users\Gabe\Desktop\Basic-C-Sharp\lambdaAssignment\obj\Debug\netcoreapp3.1\lambdaAssignment.csproj.AssemblyReference.cache
+C:\Users\Gabe\Desktop\Basic-C-Sharp\lambdaAssignment\obj\Debug\netcoreapp3.1\lambdaAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabe\Desktop\Basic-C-Sharp\lambdaAssignment\obj\Debug\netcoreapp3.1\lambdaAssignment.AssemblyInfoInputs.cache
+C:\Users\Gabe\Desktop\Basic-C-Sharp\lambdaAssignment\obj\Debug\netcoreapp3.1\lambdaAssignment.AssemblyInfo.cs
+C:\Users\Gabe\Desktop\Basic-C-Sharp\lambdaAssignment\obj\Debug\netcoreapp3.1\lambdaAssignment.csproj.CoreCompileInputs.cache
+C:\Users\Gabe\Desktop\Basic-C-Sharp\lambdaAssignment\obj\Debug\netcoreapp3.1\lambdaAssignment.dll
+C:\Users\Gabe\Desktop\Basic-C-Sharp\lambdaAssignment\obj\Debug\netcoreapp3.1\lambdaAssignment.pdb
+C:\Users\Gabe\Desktop\Basic-C-Sharp\lambdaAssignment\obj\Debug\netcoreapp3.1\lambdaAssignment.genruntimeconfig.cache
