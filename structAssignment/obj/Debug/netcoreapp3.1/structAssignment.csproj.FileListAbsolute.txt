@@ -1,0 +1,13 @@
+C:\Users\Gabe\Desktop\Basic-C-Sharp\structAssignment\bin\Debug\netcoreapp3.1\structAssignment.exe
+C:\Users\Gabe\Desktop\Basic-C-Sharp\structAssignment\bin\Debug\netcoreapp3.1\structAssignment.deps.json
+C:\Users\Gabe\Desktop\Basic-C-Sharp\structAssignment\bin\Debug\netcoreapp3.1\structAssignment.runtimeconfig.json
+C:\Users\Gabe\Desktop\Basic-C-Sharp\structAssignment\bin\Debug\netcoreapp3.1\structAssignment.runtimeconfig.dev.json
+C:\Users\Gabe\Desktop\Basic-C-Sharp\structAssignment\bin\Debug\netcoreapp3.1\structAssignment.dll
+C:\Users\Gabe\Desktop\Basic-C-Sharp\structAssignment\bin\Debug\netcoreapp3.1\structAssignment.pdb
+C:\Users\Gabe\Desktop\Basic-C-Sharp\structAssignment\obj\Debug\netcoreapp3.1\structAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabe\Desktop\Basic-C-Sharp\structAssignment\obj\Debug\netcoreapp3.1\structAssignment.AssemblyInfoInputs.cache
+C:\Users\Gabe\Desktop\Basic-C-Sharp\structAssignment\obj\Debug\netcoreapp3.1\structAssignment.AssemblyInfo.cs
+C:\Users\Gabe\Desktop\Basic-C-Sharp\structAssignment\obj\Debug\netcoreapp3.1\structAssignment.csproj.CoreCompileInputs.cache
+C:\Users\Gabe\Desktop\Basic-C-Sharp\structAssignment\obj\Debug\netcoreapp3.1\structAssignment.dll
+C:\Users\Gabe\Desktop\Basic-C-Sharp\structAssignment\obj\Debug\netcoreapp3.1\structAssignment.pdb
+C:\Users\Gabe\Desktop\Basic-C-Sharp\structAssignment\obj\Debug\netcoreapp3.1\structAssignment.genruntimeconfig.cache

@@ -4,7 +4,8 @@ using System.Text;
 
 namespace structAssignment
 {
-    class Number
+    public struct Number
     {
+        public decimal Amount { get; set; }
     }
 }

@@ -6,7 +6,11 @@ namespace structAssignment
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Number num = new Number();
+
+            num.Amount = 3;
+            Console.WriteLine(num.Amount);
+            Console.ReadLine();
         }
     }
 }
