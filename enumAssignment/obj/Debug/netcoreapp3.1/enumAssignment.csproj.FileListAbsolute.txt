@@ -1,0 +1,14 @@
+C:\Users\Gabe\Desktop\Basic-C-Sharp\enumAssignment\obj\Debug\netcoreapp3.1\enumAssignment.csproj.AssemblyReference.cache
+C:\Users\Gabe\Desktop\Basic-C-Sharp\enumAssignment\obj\Debug\netcoreapp3.1\enumAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabe\Desktop\Basic-C-Sharp\enumAssignment\obj\Debug\netcoreapp3.1\enumAssignment.AssemblyInfoInputs.cache
+C:\Users\Gabe\Desktop\Basic-C-Sharp\enumAssignment\obj\Debug\netcoreapp3.1\enumAssignment.AssemblyInfo.cs
+C:\Users\Gabe\Desktop\Basic-C-Sharp\enumAssignment\obj\Debug\netcoreapp3.1\enumAssignment.csproj.CoreCompileInputs.cache
+C:\Users\Gabe\Desktop\Basic-C-Sharp\enumAssignment\bin\Debug\netcoreapp3.1\enumAssignment.exe
+C:\Users\Gabe\Desktop\Basic-C-Sharp\enumAssignment\bin\Debug\netcoreapp3.1\enumAssignment.deps.json
+C:\Users\Gabe\Desktop\Basic-C-Sharp\enumAssignment\bin\Debug\netcoreapp3.1\enumAssignment.runtimeconfig.json
+C:\Users\Gabe\Desktop\Basic-C-Sharp\enumAssignment\bin\Debug\netcoreapp3.1\enumAssignment.runtimeconfig.dev.json
+C:\Users\Gabe\Desktop\Basic-C-Sharp\enumAssignment\bin\Debug\netcoreapp3.1\enumAssignment.dll
+C:\Users\Gabe\Desktop\Basic-C-Sharp\enumAssignment\bin\Debug\netcoreapp3.1\enumAssignment.pdb
+C:\Users\Gabe\Desktop\Basic-C-Sharp\enumAssignment\obj\Debug\netcoreapp3.1\enumAssignment.dll
+C:\Users\Gabe\Desktop\Basic-C-Sharp\enumAssignment\obj\Debug\netcoreapp3.1\enumAssignment.pdb
+C:\Users\Gabe\Desktop\Basic-C-Sharp\enumAssignment\obj\Debug\netcoreapp3.1\enumAssignment.genruntimeconfig.cache

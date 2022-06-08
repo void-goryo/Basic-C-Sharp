@@ -12,20 +12,13 @@ namespace blackjack
         {
             Cards = new List<Card>();   //Card is a model being taken from the class "Cards", which houses a face and suit that can hold a value set to it
 
-            //makes two lists of values
-            List<string> Suits = new List<string>() { "Clubs", "Hearts", "Diamonds", "Spades" };
-            List<string> Faces = new List<string>()
+            for (int i = 0; i < 13; i++)
             {
-                "Two", "Three","Four" ,"Five","Six","Seven","Eight", "Nine", "Ten", "Ace", "Jack", "Queen", "King"
-            };
-
-            foreach(string face in Faces)
-            {
-                foreach(string suit in Suits)
+                for (int j = 0; j < 4; j++)
                 {
                     Card card = new Card();
-                    card.Suit = suit;
-                    card.Face = face;
+                    card.Face = (Face)i;
+                    card.Suit = (Suit)j;
                     Cards.Add(card);
                 }
             }
