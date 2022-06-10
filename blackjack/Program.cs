@@ -2,6 +2,8 @@
 using System.IO;
 using Casino;
 using Casino.TwentyOne;
+using System.Data.SqlClient;
+using System.Data;
 
 namespace blackjack
 {
@@ -56,15 +58,17 @@ namespace blackjack
                     {
                         game.Play();
                     }
-                    catch (FraudException)       //you should always have your specific exceptions first, and then your general exceptions
+                    catch (FraudException ex)       //you should always have your specific exceptions first, and then your general exceptions
                     {
                         Console.WriteLine("The game has suspected you of fraud. An associate will be with you shortly.");
+                        UpdateDbWithException(ex);
                         Console.ReadLine();
                         return;
                     }
-                    catch (Exception)
+                    catch (Exception ex)
                     {
                         Console.WriteLine("An error occurred. Please contact your System Administrator.");
+                        UpdateDbWithException(ex);
                         Console.ReadLine();
                         return;
                     }
@@ -77,6 +81,30 @@ namespace blackjack
             Console.ReadLine();
 
         
+        }
+
+        private static void UpdateDbWithException(Exception ex)
+        {
+            string connectionString = @"Data Source=(localdb)\ProjectsV13;Initial Catalog=TwentyOneGame;Integrated Security=True;Connect Timeout=30;
+                                        Encrypt=False;TrustServerCertificate=False;ApplicationIntent=ReadWrite;MultiSubnetFailover=False";
+
+            string queryString = @"INSTERT INRO Exceptions (ExceptionType, ExceptionMessage, TimeStamp) VALUES" +
+                                    @"(@ExceptionType, @ExceptionMessage, @TimeStamp)";     //peramiterized query... look it up if you don't remember
+            using (SqlConnection connection = new SqlConnection(connectionString))      //managing memory and closing it up to free more memory
+            {
+                SqlCommand command = new SqlCommand(queryString, connection);
+                command.Parameters.Add("@ExceptionType", SqlDbType.VarChar);        //protects against sql injection
+                command.Parameters.Add("@ExceptionMessage", SqlDbType.VarChar);
+                command.Parameters.Add("@TimeStamp", SqlDbType.DateTime);
+
+                command.Parameters["@ExceptionType"].Value = ex.GetType().ToString();
+                command.Parameters["@ExceptionMessage"].Value = ex.Message;
+                command.Parameters["@TimeStamp"].Value = DateTime.Now;
+
+                connection.Open();
+                command.ExecuteNonQuery();
+                connection.Close();
+            }
         }
     }
 }

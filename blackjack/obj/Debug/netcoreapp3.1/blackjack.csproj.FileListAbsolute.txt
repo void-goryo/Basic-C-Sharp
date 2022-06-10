@@ -29,3 +29,9 @@ C:\Users\Gabe\Desktop\Basic-C-Sharp\blackjack\obj\Debug\netcoreapp3.1\blackjack.
 C:\Users\Gabe\Desktop\Basic-C-Sharp\blackjack\bin\Debug\netcoreapp3.1\Casino.dll
 C:\Users\Gabe\Desktop\Basic-C-Sharp\blackjack\bin\Debug\netcoreapp3.1\Casino.pdb
 C:\Users\Gabe\Desktop\Basic-C-Sharp\blackjack\obj\Debug\netcoreapp3.1\blackjack.csproj.CopyComplete
+C:\Users\Gabe\Desktop\Basic-C-Sharp\blackjack\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\Gabe\Desktop\Basic-C-Sharp\blackjack\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Gabe\Desktop\Basic-C-Sharp\blackjack\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Gabe\Desktop\Basic-C-Sharp\blackjack\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Gabe\Desktop\Basic-C-Sharp\blackjack\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Gabe\Desktop\Basic-C-Sharp\blackjack\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
