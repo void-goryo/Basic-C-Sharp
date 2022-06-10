@@ -15,7 +15,7 @@ namespace blackjack
             //string text = "Here is some text.";
             //File.WriteAllText(@"C:\Users\gabe\Desktop\log.txt", text);  //@ reads the line as a litteral text
 
-            File.ReadAllText(@"C:\Users\gabe\Desktop\log.txt");
+            //string text = File.ReadAllText(@"C:\Users\gabe\Desktop\log.txt");
 
 
 
