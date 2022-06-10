@@ -26,3 +26,6 @@ C:\Users\Gabe\Desktop\Basic-C-Sharp\blackjack\obj\Debug\netcoreapp3.1\blackjack.
 C:\Users\Gabe\Desktop\Basic-C-Sharp\blackjack\obj\Debug\netcoreapp3.1\blackjack.dll
 C:\Users\Gabe\Desktop\Basic-C-Sharp\blackjack\obj\Debug\netcoreapp3.1\blackjack.pdb
 C:\Users\Gabe\Desktop\Basic-C-Sharp\blackjack\obj\Debug\netcoreapp3.1\blackjack.genruntimeconfig.cache
+C:\Users\Gabe\Desktop\Basic-C-Sharp\blackjack\bin\Debug\netcoreapp3.1\Casino.dll
+C:\Users\Gabe\Desktop\Basic-C-Sharp\blackjack\bin\Debug\netcoreapp3.1\Casino.pdb
+C:\Users\Gabe\Desktop\Basic-C-Sharp\blackjack\obj\Debug\netcoreapp3.1\blackjack.csproj.CopyComplete

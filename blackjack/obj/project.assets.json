@@ -1,11 +1,30 @@
 {
   "version": 3,
   "targets": {
-    ".NETCoreApp,Version=v3.1": {}
+    ".NETCoreApp,Version=v3.1": {
+      "Casino/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/Casino.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Casino.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "Casino/1.0.0": {
+      "type": "project",
+      "path": "../Casino/Casino.csproj",
+      "msbuildProject": "../Casino/Casino.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    ".NETCoreApp,Version=v3.1": []
+    ".NETCoreApp,Version=v3.1": [
+      "Casino >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\Gabe\\.nuget\\packages\\": {},
@@ -38,7 +57,11 @@
       "frameworks": {
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\Gabe\\Desktop\\Basic-C-Sharp\\Casino\\Casino.csproj": {
+              "projectPath": "C:\\Users\\Gabe\\Desktop\\Basic-C-Sharp\\Casino\\Casino.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
