@@ -130,6 +130,7 @@ namespace blackjack
                     Players.Where(x => x.Name == entry.Key.Name).First().Balance += (entry.Value * 2);
 
                 }
+                return;
             }
             foreach (Player player in Players)
             {
@@ -151,7 +152,7 @@ namespace blackjack
                     Dealer.Balance += Bets[player];
                     
                 }
-                Console.WriteLine("Play again>");
+                Console.WriteLine("Play again?");
                 string answer = Console.ReadLine().ToLower();
                 if (answer == "yes" || answer == "yeah")
                 {

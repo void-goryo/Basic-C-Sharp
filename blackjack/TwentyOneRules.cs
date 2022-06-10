@@ -73,7 +73,7 @@ namespace blackjack
             int[] dealerResults = GetAllPossibleHandValues(DealerHand);
 
             int playerScore = playerResults.Where(x => x < 22).Max();
-            int dealerScore = dealerResults.Where(x => x < 22).Max();
+            int dealerScore = dealerResults.Where(x => x < 200).Max();
 
             if (playerScore > dealerScore) return true;
             else if (dealerScore > playerScore) return false;
