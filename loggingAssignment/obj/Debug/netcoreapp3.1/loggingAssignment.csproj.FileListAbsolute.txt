@@ -1,0 +1,14 @@
+C:\Users\Gabe\Desktop\Basic-C-Sharp\loggingAssignment\bin\Debug\netcoreapp3.1\loggingAssignment.exe
+C:\Users\Gabe\Desktop\Basic-C-Sharp\loggingAssignment\bin\Debug\netcoreapp3.1\loggingAssignment.deps.json
+C:\Users\Gabe\Desktop\Basic-C-Sharp\loggingAssignment\bin\Debug\netcoreapp3.1\loggingAssignment.runtimeconfig.json
+C:\Users\Gabe\Desktop\Basic-C-Sharp\loggingAssignment\bin\Debug\netcoreapp3.1\loggingAssignment.runtimeconfig.dev.json
+C:\Users\Gabe\Desktop\Basic-C-Sharp\loggingAssignment\bin\Debug\netcoreapp3.1\loggingAssignment.dll
+C:\Users\Gabe\Desktop\Basic-C-Sharp\loggingAssignment\bin\Debug\netcoreapp3.1\loggingAssignment.pdb
+C:\Users\Gabe\Desktop\Basic-C-Sharp\loggingAssignment\obj\Debug\netcoreapp3.1\loggingAssignment.csproj.AssemblyReference.cache
+C:\Users\Gabe\Desktop\Basic-C-Sharp\loggingAssignment\obj\Debug\netcoreapp3.1\loggingAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabe\Desktop\Basic-C-Sharp\loggingAssignment\obj\Debug\netcoreapp3.1\loggingAssignment.AssemblyInfoInputs.cache
+C:\Users\Gabe\Desktop\Basic-C-Sharp\loggingAssignment\obj\Debug\netcoreapp3.1\loggingAssignment.AssemblyInfo.cs
+C:\Users\Gabe\Desktop\Basic-C-Sharp\loggingAssignment\obj\Debug\netcoreapp3.1\loggingAssignment.csproj.CoreCompileInputs.cache
+C:\Users\Gabe\Desktop\Basic-C-Sharp\loggingAssignment\obj\Debug\netcoreapp3.1\loggingAssignment.dll
+C:\Users\Gabe\Desktop\Basic-C-Sharp\loggingAssignment\obj\Debug\netcoreapp3.1\loggingAssignment.pdb
+C:\Users\Gabe\Desktop\Basic-C-Sharp\loggingAssignment\obj\Debug\netcoreapp3.1\loggingAssignment.genruntimeconfig.cache

@@ -17,7 +17,7 @@ namespace blackjack
 
             //string text = File.ReadAllText(@"C:\Users\gabe\Desktop\log.txt");
 
-
+            
 
             Console.WriteLine("Welcome to the Grand Hotel and Casino. Let's start by telling me your name.");
             string playerName = Console.ReadLine();

@@ -21,6 +21,7 @@ namespace blackjack
             //This will log the added card
             using (StreamWriter file = new StreamWriter(@"C:\Users\Gabe\desktop\basic-c-sharp\logs\log.txt", true))
             {
+                file.WriteLine(DateTime.Now);
                 file.WriteLine(card);
             }
             Deck.Cards.RemoveAt(0);

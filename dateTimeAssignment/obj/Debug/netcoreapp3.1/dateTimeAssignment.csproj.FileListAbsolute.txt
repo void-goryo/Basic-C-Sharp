@@ -1,0 +1,13 @@
+C:\Users\Gabe\Desktop\Basic-C-Sharp\dateTimeAssignment\bin\Debug\netcoreapp3.1\dateTimeAssignment.exe
+C:\Users\Gabe\Desktop\Basic-C-Sharp\dateTimeAssignment\bin\Debug\netcoreapp3.1\dateTimeAssignment.deps.json
+C:\Users\Gabe\Desktop\Basic-C-Sharp\dateTimeAssignment\bin\Debug\netcoreapp3.1\dateTimeAssignment.runtimeconfig.json
+C:\Users\Gabe\Desktop\Basic-C-Sharp\dateTimeAssignment\bin\Debug\netcoreapp3.1\dateTimeAssignment.runtimeconfig.dev.json
+C:\Users\Gabe\Desktop\Basic-C-Sharp\dateTimeAssignment\bin\Debug\netcoreapp3.1\dateTimeAssignment.dll
+C:\Users\Gabe\Desktop\Basic-C-Sharp\dateTimeAssignment\bin\Debug\netcoreapp3.1\dateTimeAssignment.pdb
+C:\Users\Gabe\Desktop\Basic-C-Sharp\dateTimeAssignment\obj\Debug\netcoreapp3.1\dateTimeAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabe\Desktop\Basic-C-Sharp\dateTimeAssignment\obj\Debug\netcoreapp3.1\dateTimeAssignment.AssemblyInfoInputs.cache
+C:\Users\Gabe\Desktop\Basic-C-Sharp\dateTimeAssignment\obj\Debug\netcoreapp3.1\dateTimeAssignment.AssemblyInfo.cs
+C:\Users\Gabe\Desktop\Basic-C-Sharp\dateTimeAssignment\obj\Debug\netcoreapp3.1\dateTimeAssignment.csproj.CoreCompileInputs.cache
+C:\Users\Gabe\Desktop\Basic-C-Sharp\dateTimeAssignment\obj\Debug\netcoreapp3.1\dateTimeAssignment.dll
+C:\Users\Gabe\Desktop\Basic-C-Sharp\dateTimeAssignment\obj\Debug\netcoreapp3.1\dateTimeAssignment.pdb
+C:\Users\Gabe\Desktop\Basic-C-Sharp\dateTimeAssignment\obj\Debug\netcoreapp3.1\dateTimeAssignment.genruntimeconfig.cache
