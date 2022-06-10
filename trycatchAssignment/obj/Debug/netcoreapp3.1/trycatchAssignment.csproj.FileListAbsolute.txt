@@ -1,0 +1,13 @@
+C:\Users\Gabe\Desktop\Basic-C-Sharp\trycatchAssignment\bin\Debug\netcoreapp3.1\trycatchAssignment.exe
+C:\Users\Gabe\Desktop\Basic-C-Sharp\trycatchAssignment\bin\Debug\netcoreapp3.1\trycatchAssignment.deps.json
+C:\Users\Gabe\Desktop\Basic-C-Sharp\trycatchAssignment\bin\Debug\netcoreapp3.1\trycatchAssignment.runtimeconfig.json
+C:\Users\Gabe\Desktop\Basic-C-Sharp\trycatchAssignment\bin\Debug\netcoreapp3.1\trycatchAssignment.runtimeconfig.dev.json
+C:\Users\Gabe\Desktop\Basic-C-Sharp\trycatchAssignment\bin\Debug\netcoreapp3.1\trycatchAssignment.dll
+C:\Users\Gabe\Desktop\Basic-C-Sharp\trycatchAssignment\bin\Debug\netcoreapp3.1\trycatchAssignment.pdb
+C:\Users\Gabe\Desktop\Basic-C-Sharp\trycatchAssignment\obj\Debug\netcoreapp3.1\trycatchAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabe\Desktop\Basic-C-Sharp\trycatchAssignment\obj\Debug\netcoreapp3.1\trycatchAssignment.AssemblyInfoInputs.cache
+C:\Users\Gabe\Desktop\Basic-C-Sharp\trycatchAssignment\obj\Debug\netcoreapp3.1\trycatchAssignment.AssemblyInfo.cs
+C:\Users\Gabe\Desktop\Basic-C-Sharp\trycatchAssignment\obj\Debug\netcoreapp3.1\trycatchAssignment.csproj.CoreCompileInputs.cache
+C:\Users\Gabe\Desktop\Basic-C-Sharp\trycatchAssignment\obj\Debug\netcoreapp3.1\trycatchAssignment.dll
+C:\Users\Gabe\Desktop\Basic-C-Sharp\trycatchAssignment\obj\Debug\netcoreapp3.1\trycatchAssignment.pdb
+C:\Users\Gabe\Desktop\Basic-C-Sharp\trycatchAssignment\obj\Debug\netcoreapp3.1\trycatchAssignment.genruntimeconfig.cache

@@ -15,14 +15,26 @@ namespace blackjack
 
             //string text = File.ReadAllText(@"C:\Users\gabe\Desktop\log.txt");
 
-            const string casinoName = "Grand Hostel and Casino";        //will never change once the program is run
+            const string casinoName = "Grand Hotel and Casino";        //will never change once the program is run
 
 
-            Console.WriteLine("Welcome to the Grand Hotel and Casino. Let's start by telling me your name.");
+            Console.WriteLine("Welcome to the {0}. Let's start by telling me your name.", casinoName);
             string playerName = Console.ReadLine();
 
-            Console.WriteLine("And how much money did you bring today?");
-            int bank = Convert.ToInt32(Console.ReadLine());
+            bool validAnswer = false;
+            int bank = 0;
+            while (!validAnswer)
+            {
+                Console.WriteLine("And how much money did you bring today?");
+                validAnswer = int.TryParse(Console.ReadLine(), out bank);
+                //tries to convert to int. if it works, it'll send the value to bank and stop the while loop.
+                if (!validAnswer)
+                {
+                    Console.WriteLine("Please enter digits only, no deciamls. ");
+                }
+                //this happens if it could not convert the string to an int
+            }
+
 
             Console.WriteLine("Hello, {0}. Would you like to play a game of 21 right now?", playerName);
             string answer = Console.ReadLine().ToLower();
@@ -40,7 +52,23 @@ namespace blackjack
                 player.isActivelyPlaying = true;
                 while (player.isActivelyPlaying && player.Balance > 0)
                 {
-                    game.Play();
+                    try
+                    {
+                        game.Play();
+                    }
+                    catch (FraudException)       //you should always have your specific exceptions first, and then your general exceptions
+                    {
+                        Console.WriteLine("The game has suspected you of fraud. An associate will be with you shortly.");
+                        Console.ReadLine();
+                        return;
+                    }
+                    catch (Exception)
+                    {
+                        Console.WriteLine("An error occurred. Please contact your System Administrator.");
+                        Console.ReadLine();
+                        return;
+                    }
+
                 }
                 game -= player;
                 Console.WriteLine("Thank you for playing!");
