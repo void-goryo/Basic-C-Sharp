@@ -1,0 +1,14 @@
+C:\Users\Gabe\Desktop\Basic-C-Sharp\constructorAssignment\bin\Debug\netcoreapp3.1\constructorAssignment.exe
+C:\Users\Gabe\Desktop\Basic-C-Sharp\constructorAssignment\bin\Debug\netcoreapp3.1\constructorAssignment.deps.json
+C:\Users\Gabe\Desktop\Basic-C-Sharp\constructorAssignment\bin\Debug\netcoreapp3.1\constructorAssignment.runtimeconfig.json
+C:\Users\Gabe\Desktop\Basic-C-Sharp\constructorAssignment\bin\Debug\netcoreapp3.1\constructorAssignment.runtimeconfig.dev.json
+C:\Users\Gabe\Desktop\Basic-C-Sharp\constructorAssignment\bin\Debug\netcoreapp3.1\constructorAssignment.dll
+C:\Users\Gabe\Desktop\Basic-C-Sharp\constructorAssignment\bin\Debug\netcoreapp3.1\constructorAssignment.pdb
+C:\Users\Gabe\Desktop\Basic-C-Sharp\constructorAssignment\obj\Debug\netcoreapp3.1\constructorAssignment.csproj.AssemblyReference.cache
+C:\Users\Gabe\Desktop\Basic-C-Sharp\constructorAssignment\obj\Debug\netcoreapp3.1\constructorAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabe\Desktop\Basic-C-Sharp\constructorAssignment\obj\Debug\netcoreapp3.1\constructorAssignment.AssemblyInfoInputs.cache
+C:\Users\Gabe\Desktop\Basic-C-Sharp\constructorAssignment\obj\Debug\netcoreapp3.1\constructorAssignment.AssemblyInfo.cs
+C:\Users\Gabe\Desktop\Basic-C-Sharp\constructorAssignment\obj\Debug\netcoreapp3.1\constructorAssignment.csproj.CoreCompileInputs.cache
+C:\Users\Gabe\Desktop\Basic-C-Sharp\constructorAssignment\obj\Debug\netcoreapp3.1\constructorAssignment.dll
+C:\Users\Gabe\Desktop\Basic-C-Sharp\constructorAssignment\obj\Debug\netcoreapp3.1\constructorAssignment.pdb
+C:\Users\Gabe\Desktop\Basic-C-Sharp\constructorAssignment\obj\Debug\netcoreapp3.1\constructorAssignment.genruntimeconfig.cache

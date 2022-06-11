@@ -88,7 +88,7 @@ namespace blackjack
             string connectionString = @"Data Source=(localdb)\ProjectsV13;Initial Catalog=TwentyOneGame;Integrated Security=True;Connect Timeout=30;
                                         Encrypt=False;TrustServerCertificate=False;ApplicationIntent=ReadWrite;MultiSubnetFailover=False";
 
-            string queryString = @"INSTERT INRO Exceptions (ExceptionType, ExceptionMessage, TimeStamp) VALUES" +
+            string queryString = @"INSERT INTO Exceptions (ExceptionType, ExceptionMessage, TimeStamp) VALUES" +
                                     @"(@ExceptionType, @ExceptionMessage, @TimeStamp)";     //peramiterized query... look it up if you don't remember
             using (SqlConnection connection = new SqlConnection(connectionString))      //managing memory and closing it up to free more memory
             {
