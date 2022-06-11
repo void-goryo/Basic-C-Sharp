@@ -7,3 +7,4 @@ C:\Users\Gabe\Desktop\Basic-C-Sharp\Casino\bin\Debug\netcoreapp3.1\Casino.dll
 C:\Users\Gabe\Desktop\Basic-C-Sharp\Casino\bin\Debug\netcoreapp3.1\Casino.pdb
 C:\Users\Gabe\Desktop\Basic-C-Sharp\Casino\obj\Debug\netcoreapp3.1\Casino.dll
 C:\Users\Gabe\Desktop\Basic-C-Sharp\Casino\obj\Debug\netcoreapp3.1\Casino.pdb
+C:\Users\Gabe\Desktop\Basic-C-Sharp\Casino\obj\Debug\netcoreapp3.1\Casino.csproj.AssemblyReference.cache
