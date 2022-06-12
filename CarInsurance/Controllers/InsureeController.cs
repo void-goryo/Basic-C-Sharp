@@ -48,12 +48,67 @@ namespace CarInsurance.Controllers
         [ValidateAntiForgeryToken]
         public ActionResult Create([Bind(Include = "Id,FirstName,LastName,EmailAddress,DateofBirth,CarYear,CarMake,CarModel,DUI,SpeedingTickets,CoverageType,Quote")] Insuree insuree)
         {
-            if (ModelState.IsValid)
+            decimal quote = 50;     //starting quote
+
+            //age
+            if (insuree.DateofBirth.Year >= DateTime.Now.Year - 18)
+            {
+                quote += 100;
+            }
+            else if (insuree.DateofBirth.Year >= DateTime.Now.Year - 25)
+            {
+                quote += 50;
+            }
+            else
+            {
+                quote += 25;
+            }
+
+            //car year
+            if (insuree.CarYear < 2000)
+            {
+                quote += 25;
+            }
+            else if (insuree.CarYear > 2015)
+            {
+                quote += 25;
+            }
+
+            //car make
+            if (insuree.CarMake.ToLower() == "porsche" && insuree.CarModel.ToLower() == "911 carrera")
+            {
+                quote += 25;
+            }
+
+            //speeding tickets
+            if(insuree.SpeedingTickets > 0)
+            {
+                quote += insuree.SpeedingTickets * 5;
+            }
+
+            //DUI
+            if (insuree.DUI)
+            {
+                var dui = quote / 25;
+                quote = (quote * dui) + quote;
+            }
+
+            //coverage
+            if (insuree.CoverageType)
+            {
+                var full = quote / 50;
+                quote = (quote * full) + quote;
+            }
+
+            insuree.Quote = quote;
+
+            if (ModelState.IsValid)     //this needs to be hit last
             {
                 db.Insurees.Add(insuree);
                 db.SaveChanges();
                 return RedirectToAction("Index");
             }
+            
 
             return View(insuree);
         }
