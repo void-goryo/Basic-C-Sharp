@@ -1,0 +1,14 @@
+C:\Users\Gabe\Desktop\Basic-C-Sharp\Scores\bin\Debug\netcoreapp3.1\Scores.exe
+C:\Users\Gabe\Desktop\Basic-C-Sharp\Scores\bin\Debug\netcoreapp3.1\Scores.deps.json
+C:\Users\Gabe\Desktop\Basic-C-Sharp\Scores\bin\Debug\netcoreapp3.1\Scores.runtimeconfig.json
+C:\Users\Gabe\Desktop\Basic-C-Sharp\Scores\bin\Debug\netcoreapp3.1\Scores.runtimeconfig.dev.json
+C:\Users\Gabe\Desktop\Basic-C-Sharp\Scores\bin\Debug\netcoreapp3.1\Scores.dll
+C:\Users\Gabe\Desktop\Basic-C-Sharp\Scores\bin\Debug\netcoreapp3.1\Scores.pdb
+C:\Users\Gabe\Desktop\Basic-C-Sharp\Scores\obj\Debug\netcoreapp3.1\Scores.csproj.AssemblyReference.cache
+C:\Users\Gabe\Desktop\Basic-C-Sharp\Scores\obj\Debug\netcoreapp3.1\Scores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabe\Desktop\Basic-C-Sharp\Scores\obj\Debug\netcoreapp3.1\Scores.AssemblyInfoInputs.cache
+C:\Users\Gabe\Desktop\Basic-C-Sharp\Scores\obj\Debug\netcoreapp3.1\Scores.AssemblyInfo.cs
+C:\Users\Gabe\Desktop\Basic-C-Sharp\Scores\obj\Debug\netcoreapp3.1\Scores.csproj.CoreCompileInputs.cache
+C:\Users\Gabe\Desktop\Basic-C-Sharp\Scores\obj\Debug\netcoreapp3.1\Scores.dll
+C:\Users\Gabe\Desktop\Basic-C-Sharp\Scores\obj\Debug\netcoreapp3.1\Scores.pdb
+C:\Users\Gabe\Desktop\Basic-C-Sharp\Scores\obj\Debug\netcoreapp3.1\Scores.genruntimeconfig.cache
