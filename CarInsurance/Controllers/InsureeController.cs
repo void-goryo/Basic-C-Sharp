@@ -75,7 +75,7 @@ namespace CarInsurance.Controllers
             }
 
             //car make
-            if (insuree.CarMake.ToLower() == "porsche" && insuree.CarModel.ToLower() == "911 carrera")
+            if (insuree.CarMake.ToLower() == "porsche" && insuree.CarModel.ToLower() != "911 carrera")
             {
                 quote += 25;
             }
@@ -83,21 +83,19 @@ namespace CarInsurance.Controllers
             //speeding tickets
             if(insuree.SpeedingTickets > 0)
             {
-                quote += insuree.SpeedingTickets * 5;
+                quote += insuree.SpeedingTickets * 10;
             }
 
             //DUI
             if (insuree.DUI)
             {
-                var dui = quote / 25;
-                quote = (quote * dui) + quote;
+                quote += (Convert.ToDecimal(0.25) * quote);
             }
 
             //coverage
             if (insuree.CoverageType)
             {
-                var full = quote / 50;
-                quote = (quote * full) + quote;
+                quote += (Convert.ToDecimal(0.5) * quote);
             }
 
             insuree.Quote = quote;
